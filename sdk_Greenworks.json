@@ -1,0 +1,2567 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-07T00:50:35.159027",
+    "category": "SDK",
+    "technology": "Greenworks",
+    "total_games": 182,
+    "min_reviews_filter": 500
+  },
+  "technology_info": {
+    "data_s": "GREENWORKS",
+    "link": "/tech/SDK/Greenworks/?min_reviews=100",
+    "count": 1912,
+    "games": [
+      {
+        "appid": "3269960",
+        "name": "Shiina Taki's Decameron",
+        "steam_link": "https://store.steampowered.com/app/3269960/",
+        "steamdb_link": "https://steamdb.info/app/3269960/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3269960/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1288310",
+        "name": "Firework",
+        "steam_link": "https://store.steampowered.com/app/1288310/",
+        "steamdb_link": "https://steamdb.info/app/1288310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1288310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1150690",
+        "name": "OMORI",
+        "steam_link": "https://store.steampowered.com/app/1150690/",
+        "steamdb_link": "https://steamdb.info/app/1150690/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2167960",
+        "name": "Buy a Croquette!",
+        "steam_link": "https://store.steampowered.com/app/2167960/",
+        "steamdb_link": "https://steamdb.info/app/2167960/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2167960/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3373660",
+        "name": "Look Outside",
+        "steam_link": "https://store.steampowered.com/app/3373660/",
+        "steamdb_link": "https://steamdb.info/app/3373660/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3373660/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1901370",
+        "name": "Ib",
+        "steam_link": "https://store.steampowered.com/app/1901370/",
+        "steamdb_link": "https://steamdb.info/app/1901370/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1901370/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1093910",
+        "name": "Tales of the Black Forest",
+        "steam_link": "https://store.steampowered.com/app/1093910/",
+        "steamdb_link": "https://steamdb.info/app/1093910/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1093910/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1454400",
+        "name": "Cookie Clicker",
+        "steam_link": "https://store.steampowered.com/app/1454400/",
+        "steamdb_link": "https://steamdb.info/app/1454400/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1454400/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2299900",
+        "name": "Felvidek",
+        "steam_link": "https://store.steampowered.com/app/2299900/",
+        "steamdb_link": "https://steamdb.info/app/2299900/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2299900/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1530140",
+        "name": "Aventura Copilului Albastru și Urât",
+        "steam_link": "https://store.steampowered.com/app/1530140/",
+        "steamdb_link": "https://steamdb.info/app/1530140/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530140/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1035990",
+        "name": "Dialtown: Phone Dating Sim",
+        "steam_link": "https://store.steampowered.com/app/1035990/",
+        "steamdb_link": "https://steamdb.info/app/1035990/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1035990/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2109460",
+        "name": "VillageRhapsody",
+        "steam_link": "https://store.steampowered.com/app/2109460/",
+        "steamdb_link": "https://steamdb.info/app/2109460/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2109460/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2378900",
+        "name": "The Coffin of Andy and Leyley",
+        "steam_link": "https://store.steampowered.com/app/2378900/",
+        "steamdb_link": "https://steamdb.info/app/2378900/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2378900/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2067780",
+        "name": "Your Turn To Die -Death Game By Majority-",
+        "steam_link": "https://store.steampowered.com/app/2067780/",
+        "steamdb_link": "https://steamdb.info/app/2067780/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2067780/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1677310",
+        "name": "In Stars And Time",
+        "steam_link": "https://store.steampowered.com/app/1677310/",
+        "steamdb_link": "https://steamdb.info/app/1677310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1318690",
+        "name": "shapez",
+        "steam_link": "https://store.steampowered.com/app/1318690/",
+        "steamdb_link": "https://steamdb.info/app/1318690/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1318690/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2434340",
+        "name": "BLACK BOX LSS - The Shining Immortal",
+        "steam_link": "https://store.steampowered.com/app/2434340/",
+        "steamdb_link": "https://steamdb.info/app/2434340/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2434340/capsule_231x87.jpg"
+      },
+      {
+        "appid": "239820",
+        "name": "Game Dev Tycoon",
+        "steam_link": "https://store.steampowered.com/app/239820/",
+        "steamdb_link": "https://steamdb.info/app/239820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "844590",
+        "name": "Hypnospace Outlaw",
+        "steam_link": "https://store.steampowered.com/app/844590/",
+        "steamdb_link": "https://steamdb.info/app/844590/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/844590/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3900710",
+        "name": "Alabaster Dawn Demo",
+        "steam_link": "https://store.steampowered.com/app/3900710/",
+        "steamdb_link": "https://steamdb.info/app/3900710/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900710/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1834870",
+        "name": "Lily's Well",
+        "steam_link": "https://store.steampowered.com/app/1834870/",
+        "steamdb_link": "https://steamdb.info/app/1834870/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1834870/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2302540",
+        "name": "花火与幽灵少女 - Hanabi and Ghost girl",
+        "steam_link": "https://store.steampowered.com/app/2302540/",
+        "steamdb_link": "https://steamdb.info/app/2302540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2302540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1216200",
+        "name": "Coloring Game 2",
+        "steam_link": "https://store.steampowered.com/app/1216200/",
+        "steamdb_link": "https://steamdb.info/app/1216200/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1216200/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1888010",
+        "name": "Towards Future",
+        "steam_link": "https://store.steampowered.com/app/1888010/",
+        "steamdb_link": "https://steamdb.info/app/1888010/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888010/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1002300",
+        "name": "Fear &amp; Hunger",
+        "steam_link": "https://store.steampowered.com/app/1002300/",
+        "steamdb_link": "https://steamdb.info/app/1002300/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2848420",
+        "name": "My succubus Kukula",
+        "steam_link": "https://store.steampowered.com/app/2848420/",
+        "steamdb_link": "https://steamdb.info/app/2848420/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2848420/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1812820",
+        "name": "Bitburner",
+        "steam_link": "https://store.steampowered.com/app/1812820/",
+        "steamdb_link": "https://steamdb.info/app/1812820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1619750",
+        "name": "Karryn's Prison",
+        "steam_link": "https://store.steampowered.com/app/1619750/",
+        "steamdb_link": "https://steamdb.info/app/1619750/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619750/capsule_231x87.jpg"
+      },
+      {
+        "appid": "373390",
+        "name": "Contradiction: Spot The Liar",
+        "steam_link": "https://store.steampowered.com/app/373390/",
+        "steamdb_link": "https://steamdb.info/app/373390/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373390/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1673190",
+        "name": "Bahamut2-dragon's bride",
+        "steam_link": "https://store.steampowered.com/app/1673190/",
+        "steamdb_link": "https://steamdb.info/app/1673190/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1673190/capsule_231x87.jpg"
+      },
+      {
+        "appid": "723090",
+        "name": "Meltys Quest",
+        "steam_link": "https://store.steampowered.com/app/723090/",
+        "steamdb_link": "https://steamdb.info/app/723090/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/723090/capsule_231x87.jpg"
+      },
+      {
+        "appid": "368340",
+        "name": "CrossCode",
+        "steam_link": "https://store.steampowered.com/app/368340/",
+        "steamdb_link": "https://steamdb.info/app/368340/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368340/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1275350",
+        "name": "Ninja Kiwi Archive",
+        "steam_link": "https://store.steampowered.com/app/1275350/",
+        "steamdb_link": "https://steamdb.info/app/1275350/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275350/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1057680",
+        "name": "人间 The Lost We Lost",
+        "steam_link": "https://store.steampowered.com/app/1057680/",
+        "steamdb_link": "https://steamdb.info/app/1057680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1168470",
+        "name": "千面 Melancholy Love",
+        "steam_link": "https://store.steampowered.com/app/1168470/",
+        "steamdb_link": "https://steamdb.info/app/1168470/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1168470/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1511270",
+        "name": "Ann",
+        "steam_link": "https://store.steampowered.com/app/1511270/",
+        "steamdb_link": "https://steamdb.info/app/1511270/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1511270/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1162070",
+        "name": "Nyakori's Rabbit Doll",
+        "steam_link": "https://store.steampowered.com/app/1162070/",
+        "steamdb_link": "https://steamdb.info/app/1162070/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1162070/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1275640",
+        "name": "Coloring Game 3",
+        "steam_link": "https://store.steampowered.com/app/1275640/",
+        "steamdb_link": "https://steamdb.info/app/1275640/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275640/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1450830",
+        "name": "At Dead Of Night",
+        "steam_link": "https://store.steampowered.com/app/1450830/",
+        "steamdb_link": "https://steamdb.info/app/1450830/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1450830/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1737100",
+        "name": "Treasure of Nadia",
+        "steam_link": "https://store.steampowered.com/app/1737100/",
+        "steamdb_link": "https://steamdb.info/app/1737100/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1737100/capsule_231x87.jpg"
+      },
+      {
+        "appid": "630060",
+        "name": "寇莎梅特：困世迷情 Consummate:Missing World",
+        "steam_link": "https://store.steampowered.com/app/630060/",
+        "steamdb_link": "https://steamdb.info/app/630060/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/630060/capsule_231x87.jpg"
+      },
+      {
+        "appid": "322500",
+        "name": "SUPERHOT",
+        "steam_link": "https://store.steampowered.com/app/322500/",
+        "steamdb_link": "https://steamdb.info/app/322500/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322500/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1984350",
+        "name": "打工吧！天使酱 ~天使在魔界的劳改生活~",
+        "steam_link": "https://store.steampowered.com/app/1984350/",
+        "steamdb_link": "https://steamdb.info/app/1984350/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984350/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1066900",
+        "name": "qomp",
+        "steam_link": "https://store.steampowered.com/app/1066900/",
+        "steamdb_link": "https://steamdb.info/app/1066900/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1066900/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2961460",
+        "name": "神树残响（Echoes of the Divine Tree）",
+        "steam_link": "https://store.steampowered.com/app/2961460/",
+        "steamdb_link": "https://steamdb.info/app/2961460/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2961460/capsule_231x87.jpg"
+      },
+      {
+        "appid": "939330",
+        "name": "Tailor Tales",
+        "steam_link": "https://store.steampowered.com/app/939330/",
+        "steamdb_link": "https://steamdb.info/app/939330/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/939330/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1306750",
+        "name": "黑色花与红山羊 / Black Datura &amp; Red Goat",
+        "steam_link": "https://store.steampowered.com/app/1306750/",
+        "steamdb_link": "https://steamdb.info/app/1306750/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1306750/capsule_231x87.jpg"
+      },
+      {
+        "appid": "435300",
+        "name": "We Know the Devil",
+        "steam_link": "https://store.steampowered.com/app/435300/",
+        "steamdb_link": "https://steamdb.info/app/435300/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435300/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1399720",
+        "name": "Antimatter Dimensions",
+        "steam_link": "https://store.steampowered.com/app/1399720/",
+        "steamdb_link": "https://steamdb.info/app/1399720/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1399720/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1146970",
+        "name": "My Vow to My Liege",
+        "steam_link": "https://store.steampowered.com/app/1146970/",
+        "steamdb_link": "https://steamdb.info/app/1146970/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1146970/capsule_231x87.jpg"
+      },
+      {
+        "appid": "876850",
+        "name": "WhiteLily 1：丽丽公主",
+        "steam_link": "https://store.steampowered.com/app/876850/",
+        "steamdb_link": "https://steamdb.info/app/876850/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/876850/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1026820",
+        "name": "Coloring Game",
+        "steam_link": "https://store.steampowered.com/app/1026820/",
+        "steamdb_link": "https://steamdb.info/app/1026820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1026820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1132190",
+        "name": "Coloring Game: Little City",
+        "steam_link": "https://store.steampowered.com/app/1132190/",
+        "steamdb_link": "https://steamdb.info/app/1132190/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1132190/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3270680",
+        "name": "Kota`s New Journey",
+        "steam_link": "https://store.steampowered.com/app/3270680/",
+        "steamdb_link": "https://steamdb.info/app/3270680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1899060",
+        "name": "Pocket Mirror ~ GoldenerTraum",
+        "steam_link": "https://store.steampowered.com/app/1899060/",
+        "steamdb_link": "https://steamdb.info/app/1899060/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1899060/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1212400",
+        "name": "Heroines of Swords &amp; Spells",
+        "steam_link": "https://store.steampowered.com/app/1212400/",
+        "steamdb_link": "https://steamdb.info/app/1212400/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1212400/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1267910",
+        "name": "Melvor Idle",
+        "steam_link": "https://store.steampowered.com/app/1267910/",
+        "steamdb_link": "https://steamdb.info/app/1267910/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267910/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1705140",
+        "name": "Final Profit: A Shop RPG",
+        "steam_link": "https://store.steampowered.com/app/1705140/",
+        "steamdb_link": "https://steamdb.info/app/1705140/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1705140/capsule_231x87.jpg"
+      },
+      {
+        "appid": "358130",
+        "name": "Curious Expedition",
+        "steam_link": "https://store.steampowered.com/app/358130/",
+        "steamdb_link": "https://steamdb.info/app/358130/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/358130/capsule_231x87.jpg"
+      },
+      {
+        "appid": "453340",
+        "name": "Hustle Cat",
+        "steam_link": "https://store.steampowered.com/app/453340/",
+        "steamdb_link": "https://steamdb.info/app/453340/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/453340/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1554790",
+        "name": "Coloring Game 4",
+        "steam_link": "https://store.steampowered.com/app/1554790/",
+        "steamdb_link": "https://steamdb.info/app/1554790/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1554790/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2399910",
+        "name": "Byakuya Museum",
+        "steam_link": "https://store.steampowered.com/app/2399910/",
+        "steamdb_link": "https://steamdb.info/app/2399910/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399910/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1494190",
+        "name": "秘密舞会",
+        "steam_link": "https://store.steampowered.com/app/1494190/",
+        "steamdb_link": "https://steamdb.info/app/1494190/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494190/capsule_231x87.jpg"
+      },
+      {
+        "appid": "948830",
+        "name": "寄甡 Symbiotic Love",
+        "steam_link": "https://store.steampowered.com/app/948830/",
+        "steamdb_link": "https://steamdb.info/app/948830/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/948830/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1735950",
+        "name": "Paper Bride",
+        "steam_link": "https://store.steampowered.com/app/1735950/",
+        "steamdb_link": "https://steamdb.info/app/1735950/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1735950/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1939790",
+        "name": "Paper Bride 3 Unresolved Love",
+        "steam_link": "https://store.steampowered.com/app/1939790/",
+        "steamdb_link": "https://steamdb.info/app/1939790/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1939790/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3001970",
+        "name": "Coloring Game 5",
+        "steam_link": "https://store.steampowered.com/app/3001970/",
+        "steamdb_link": "https://steamdb.info/app/3001970/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3001970/capsule_231x87.jpg"
+      },
+      {
+        "appid": "956450",
+        "name": "Rogue Fable III",
+        "steam_link": "https://store.steampowered.com/app/956450/",
+        "steamdb_link": "https://steamdb.info/app/956450/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/956450/capsule_231x87.jpg"
+      },
+      {
+        "appid": "296870",
+        "name": "Dreaming Sarah",
+        "steam_link": "https://store.steampowered.com/app/296870/",
+        "steamdb_link": "https://steamdb.info/app/296870/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/296870/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2019680",
+        "name": "Lewd Gym",
+        "steam_link": "https://store.steampowered.com/app/2019680/",
+        "steamdb_link": "https://steamdb.info/app/2019680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2019680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1070020",
+        "name": "我的纸片人女友/Make butter together!",
+        "steam_link": "https://store.steampowered.com/app/1070020/",
+        "steamdb_link": "https://steamdb.info/app/1070020/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070020/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1877960",
+        "name": "Trimps",
+        "steam_link": "https://store.steampowered.com/app/1877960/",
+        "steamdb_link": "https://steamdb.info/app/1877960/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1877960/capsule_231x87.jpg"
+      },
+      {
+        "appid": "335240",
+        "name": "Transformice",
+        "steam_link": "https://store.steampowered.com/app/335240/",
+        "steamdb_link": "https://steamdb.info/app/335240/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/335240/capsule_231x87.jpg"
+      },
+      {
+        "appid": "942930",
+        "name": "枕边少女 MOE Hypnotist - share dreams with you",
+        "steam_link": "https://store.steampowered.com/app/942930/",
+        "steamdb_link": "https://steamdb.info/app/942930/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/942930/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1879380",
+        "name": "Paper Bride 2 Zangling Village",
+        "steam_link": "https://store.steampowered.com/app/1879380/",
+        "steamdb_link": "https://steamdb.info/app/1879380/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1879380/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1416240",
+        "name": "夜永 Eternal Love",
+        "steam_link": "https://store.steampowered.com/app/1416240/",
+        "steamdb_link": "https://steamdb.info/app/1416240/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1416240/capsule_231x87.jpg"
+      },
+      {
+        "appid": "578900",
+        "name": "Demonheart",
+        "steam_link": "https://store.steampowered.com/app/578900/",
+        "steamdb_link": "https://steamdb.info/app/578900/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578900/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1478160",
+        "name": "Nyaruru Fishy Fight",
+        "steam_link": "https://store.steampowered.com/app/1478160/",
+        "steamdb_link": "https://steamdb.info/app/1478160/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1478160/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2697490",
+        "name": "欺神弄鬼",
+        "steam_link": "https://store.steampowered.com/app/2697490/",
+        "steamdb_link": "https://steamdb.info/app/2697490/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2697490/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2460070",
+        "name": "Half-Demon Shinobi",
+        "steam_link": "https://store.steampowered.com/app/2460070/",
+        "steamdb_link": "https://steamdb.info/app/2460070/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2460070/capsule_231x87.jpg"
+      },
+      {
+        "appid": "998940",
+        "name": "隐形守护者 The Invisible Guardian",
+        "steam_link": "https://store.steampowered.com/app/998940/",
+        "steamdb_link": "https://steamdb.info/app/998940/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/998940/capsule_231x87.jpg"
+      },
+      {
+        "appid": "554600",
+        "name": "Learn Japanese To Survive! Katakana War",
+        "steam_link": "https://store.steampowered.com/app/554600/",
+        "steamdb_link": "https://steamdb.info/app/554600/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554600/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2053940",
+        "name": "Idol Hands 2",
+        "steam_link": "https://store.steampowered.com/app/2053940/",
+        "steamdb_link": "https://steamdb.info/app/2053940/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2053940/capsule_231x87.jpg"
+      },
+      {
+        "appid": "278890",
+        "name": "Angvik",
+        "steam_link": "https://store.steampowered.com/app/278890/",
+        "steamdb_link": "https://steamdb.info/app/278890/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278890/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2696050",
+        "name": "Yarimono",
+        "steam_link": "https://store.steampowered.com/app/2696050/",
+        "steamdb_link": "https://steamdb.info/app/2696050/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2696050/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2059310",
+        "name": "Daily life with my succubus boss",
+        "steam_link": "https://store.steampowered.com/app/2059310/",
+        "steamdb_link": "https://steamdb.info/app/2059310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2059310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2553870",
+        "name": "The Genesis Order",
+        "steam_link": "https://store.steampowered.com/app/2553870/",
+        "steamdb_link": "https://steamdb.info/app/2553870/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2553870/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1363850",
+        "name": "THE IMPOSSIBLE",
+        "steam_link": "https://store.steampowered.com/app/1363850/",
+        "steamdb_link": "https://steamdb.info/app/1363850/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363850/capsule_231x87.jpg"
+      },
+      {
+        "appid": "464350",
+        "name": "Screeps: World",
+        "steam_link": "https://store.steampowered.com/app/464350/",
+        "steamdb_link": "https://steamdb.info/app/464350/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/464350/capsule_231x87.jpg"
+      },
+      {
+        "appid": "682130",
+        "name": "Discord Bot Maker",
+        "steam_link": "https://store.steampowered.com/app/682130/",
+        "steamdb_link": "https://steamdb.info/app/682130/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/682130/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1581800",
+        "name": "Slow living with Princess",
+        "steam_link": "https://store.steampowered.com/app/1581800/",
+        "steamdb_link": "https://steamdb.info/app/1581800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1581800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "853450",
+        "name": "Nevergrind Online",
+        "steam_link": "https://store.steampowered.com/app/853450/",
+        "steamdb_link": "https://steamdb.info/app/853450/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/853450/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2578910",
+        "name": "Nocturnals",
+        "steam_link": "https://store.steampowered.com/app/2578910/",
+        "steamdb_link": "https://steamdb.info/app/2578910/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2578910/capsule_231x87.jpg"
+      },
+      {
+        "appid": "466270",
+        "name": "Half-Life: A Place in the West",
+        "steam_link": "https://store.steampowered.com/app/466270/",
+        "steamdb_link": "https://steamdb.info/app/466270/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/466270/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1674890",
+        "name": "👑 Idle Calibur 👑（选王之剑）",
+        "steam_link": "https://store.steampowered.com/app/1674890/",
+        "steamdb_link": "https://steamdb.info/app/1674890/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1674890/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2723520",
+        "name": "Misha's incident",
+        "steam_link": "https://store.steampowered.com/app/2723520/",
+        "steamdb_link": "https://steamdb.info/app/2723520/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2723520/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1003480",
+        "name": "Fireboy &amp; Watergirl: Elements",
+        "steam_link": "https://store.steampowered.com/app/1003480/",
+        "steamdb_link": "https://steamdb.info/app/1003480/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1003480/capsule_231x87.jpg"
+      },
+      {
+        "appid": "690040",
+        "name": "SUPERHOT: MIND CONTROL DELETE",
+        "steam_link": "https://store.steampowered.com/app/690040/",
+        "steamdb_link": "https://steamdb.info/app/690040/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/690040/capsule_231x87.jpg"
+      },
+      {
+        "appid": "379210",
+        "name": "Wayward",
+        "steam_link": "https://store.steampowered.com/app/379210/",
+        "steamdb_link": "https://steamdb.info/app/379210/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379210/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1219240",
+        "name": "BioGun",
+        "steam_link": "https://store.steampowered.com/app/1219240/",
+        "steamdb_link": "https://steamdb.info/app/1219240/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1219240/capsule_231x87.jpg"
+      },
+      {
+        "appid": "791330",
+        "name": "Fallen ~Makina and the City of Ruins~",
+        "steam_link": "https://store.steampowered.com/app/791330/",
+        "steamdb_link": "https://steamdb.info/app/791330/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/791330/capsule_231x87.jpg"
+      },
+      {
+        "appid": "399820",
+        "name": "Kopanito All-Stars Soccer",
+        "steam_link": "https://store.steampowered.com/app/399820/",
+        "steamdb_link": "https://steamdb.info/app/399820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/399820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "759940",
+        "name": "前程似锦 Excellent Expectations",
+        "steam_link": "https://store.steampowered.com/app/759940/",
+        "steamdb_link": "https://steamdb.info/app/759940/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/759940/capsule_231x87.jpg"
+      },
+      {
+        "appid": "707680",
+        "name": "Slapshot",
+        "steam_link": "https://store.steampowered.com/app/707680/",
+        "steamdb_link": "https://steamdb.info/app/707680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1864000",
+        "name": "Artis Impact",
+        "steam_link": "https://store.steampowered.com/app/1864000/",
+        "steamdb_link": "https://steamdb.info/app/1864000/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1864000/capsule_231x87.jpg"
+      },
+      {
+        "appid": "787450",
+        "name": "KOEWOTAYORINI / 声之寄托",
+        "steam_link": "https://store.steampowered.com/app/787450/",
+        "steamdb_link": "https://steamdb.info/app/787450/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787450/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1880330",
+        "name": "Sanfu",
+        "steam_link": "https://store.steampowered.com/app/1880330/",
+        "steamdb_link": "https://steamdb.info/app/1880330/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1880330/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1593350",
+        "name": "Increlution",
+        "steam_link": "https://store.steampowered.com/app/1593350/",
+        "steamdb_link": "https://steamdb.info/app/1593350/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593350/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2976870",
+        "name": "Taiwan Love Story⁵",
+        "steam_link": "https://store.steampowered.com/app/2976870/",
+        "steamdb_link": "https://steamdb.info/app/2976870/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2976870/capsule_231x87.jpg"
+      },
+      {
+        "appid": "290730",
+        "name": "My Lands: Black Gem Hunting",
+        "steam_link": "https://store.steampowered.com/app/290730/",
+        "steamdb_link": "https://steamdb.info/app/290730/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/290730/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2477950",
+        "name": "Nodes Escape",
+        "steam_link": "https://store.steampowered.com/app/2477950/",
+        "steamdb_link": "https://steamdb.info/app/2477950/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2477950/capsule_231x87.jpg"
+      },
+      {
+        "appid": "933940",
+        "name": "假如我是人工智能 Big Brother Is Shaping You",
+        "steam_link": "https://store.steampowered.com/app/933940/",
+        "steamdb_link": "https://steamdb.info/app/933940/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933940/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2600570",
+        "name": "Paper Bride 5 Two Lifetimes",
+        "steam_link": "https://store.steampowered.com/app/2600570/",
+        "steamdb_link": "https://steamdb.info/app/2600570/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2600570/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1745310",
+        "name": "Idol Hands",
+        "steam_link": "https://store.steampowered.com/app/1745310/",
+        "steamdb_link": "https://steamdb.info/app/1745310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1745310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1669000",
+        "name": "Age of Wonders 4",
+        "steam_link": "https://store.steampowered.com/app/1669000/",
+        "steamdb_link": "https://steamdb.info/app/1669000/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1614040",
+        "name": "How We Got Here",
+        "steam_link": "https://store.steampowered.com/app/1614040/",
+        "steamdb_link": "https://steamdb.info/app/1614040/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1614040/capsule_231x87.jpg"
+      },
+      {
+        "appid": "291410",
+        "name": "Duelyst",
+        "steam_link": "https://store.steampowered.com/app/291410/",
+        "steamdb_link": "https://steamdb.info/app/291410/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291410/capsule_231x87.jpg"
+      },
+      {
+        "appid": "984560",
+        "name": "HEARTBEAT",
+        "steam_link": "https://store.steampowered.com/app/984560/",
+        "steamdb_link": "https://steamdb.info/app/984560/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/984560/capsule_231x87.jpg"
+      },
+      {
+        "appid": "606800",
+        "name": "Startup Company",
+        "steam_link": "https://store.steampowered.com/app/606800/",
+        "steamdb_link": "https://steamdb.info/app/606800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "482920",
+        "name": "Hero Zero - Multiplayer RPG",
+        "steam_link": "https://store.steampowered.com/app/482920/",
+        "steamdb_link": "https://steamdb.info/app/482920/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/482920/capsule_231x87.jpg"
+      },
+      {
+        "appid": "317250",
+        "name": "Airscape - The Fall of Gravity",
+        "steam_link": "https://store.steampowered.com/app/317250/",
+        "steamdb_link": "https://steamdb.info/app/317250/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/317250/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1476970",
+        "name": "IdleOn",
+        "steam_link": "https://store.steampowered.com/app/1476970/",
+        "steamdb_link": "https://steamdb.info/app/1476970/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1476970/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1622780",
+        "name": "Latex Dungeon",
+        "steam_link": "https://store.steampowered.com/app/1622780/",
+        "steamdb_link": "https://steamdb.info/app/1622780/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1622780/capsule_231x87.jpg"
+      },
+      {
+        "appid": "545540",
+        "name": "The Infectious Madness of Doctor Dekker",
+        "steam_link": "https://store.steampowered.com/app/545540/",
+        "steamdb_link": "https://steamdb.info/app/545540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/545540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "440900",
+        "name": "Conan Exiles",
+        "steam_link": "https://store.steampowered.com/app/440900/",
+        "steamdb_link": "https://steamdb.info/app/440900/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1408720",
+        "name": "Krunker",
+        "steam_link": "https://store.steampowered.com/app/1408720/",
+        "steamdb_link": "https://steamdb.info/app/1408720/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1408720/capsule_231x87.jpg"
+      },
+      {
+        "appid": "673260",
+        "name": "Starblast",
+        "steam_link": "https://store.steampowered.com/app/673260/",
+        "steamdb_link": "https://steamdb.info/app/673260/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/673260/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1740730",
+        "name": "Flesh Water",
+        "steam_link": "https://store.steampowered.com/app/1740730/",
+        "steamdb_link": "https://steamdb.info/app/1740730/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1740730/capsule_231x87.jpg"
+      },
+      {
+        "appid": "571350",
+        "name": "DED",
+        "steam_link": "https://store.steampowered.com/app/571350/",
+        "steamdb_link": "https://steamdb.info/app/571350/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571350/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2403290",
+        "name": "Boyhood's End",
+        "steam_link": "https://store.steampowered.com/app/2403290/",
+        "steamdb_link": "https://steamdb.info/app/2403290/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2403290/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1854250",
+        "name": "Demon Speakeasy",
+        "steam_link": "https://store.steampowered.com/app/1854250/",
+        "steamdb_link": "https://steamdb.info/app/1854250/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1854250/capsule_231x87.jpg"
+      },
+      {
+        "appid": "531960",
+        "name": "Bloody Walls",
+        "steam_link": "https://store.steampowered.com/app/531960/",
+        "steamdb_link": "https://steamdb.info/app/531960/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/531960/capsule_231x87.jpg"
+      },
+      {
+        "appid": "892630",
+        "name": "Mojo: Hanako",
+        "steam_link": "https://store.steampowered.com/app/892630/",
+        "steamdb_link": "https://steamdb.info/app/892630/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892630/capsule_231x87.jpg"
+      },
+      {
+        "appid": "950530",
+        "name": "Mojo 2: Mia",
+        "steam_link": "https://store.steampowered.com/app/950530/",
+        "steamdb_link": "https://steamdb.info/app/950530/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/950530/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2329630",
+        "name": "Lovey-Dovey Lockdown",
+        "steam_link": "https://store.steampowered.com/app/2329630/",
+        "steamdb_link": "https://steamdb.info/app/2329630/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2329630/capsule_231x87.jpg"
+      },
+      {
+        "appid": "898920",
+        "name": "Axis &amp; Allies 1942 Online",
+        "steam_link": "https://store.steampowered.com/app/898920/",
+        "steamdb_link": "https://steamdb.info/app/898920/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/898920/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1590360",
+        "name": "He Needs His Medicine",
+        "steam_link": "https://store.steampowered.com/app/1590360/",
+        "steamdb_link": "https://steamdb.info/app/1590360/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1590360/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1658310",
+        "name": "Wolf of Stock Street",
+        "steam_link": "https://store.steampowered.com/app/1658310/",
+        "steamdb_link": "https://steamdb.info/app/1658310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1658310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "810670",
+        "name": "NALOGI",
+        "steam_link": "https://store.steampowered.com/app/810670/",
+        "steamdb_link": "https://steamdb.info/app/810670/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/810670/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1371630",
+        "name": "Incremental Adventures",
+        "steam_link": "https://store.steampowered.com/app/1371630/",
+        "steamdb_link": "https://steamdb.info/app/1371630/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1371630/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2865580",
+        "name": "Let's Minesweeper",
+        "steam_link": "https://store.steampowered.com/app/2865580/",
+        "steamdb_link": "https://steamdb.info/app/2865580/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2865580/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2286770",
+        "name": "Paper Bride 4 Bound Love",
+        "steam_link": "https://store.steampowered.com/app/2286770/",
+        "steamdb_link": "https://steamdb.info/app/2286770/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2286770/capsule_231x87.jpg"
+      },
+      {
+        "appid": "680980",
+        "name": "HEADLINER",
+        "steam_link": "https://store.steampowered.com/app/680980/",
+        "steamdb_link": "https://steamdb.info/app/680980/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/680980/capsule_231x87.jpg"
+      },
+      {
+        "appid": "784950",
+        "name": "SUPREMACY: WORLD WAR 3",
+        "steam_link": "https://store.steampowered.com/app/784950/",
+        "steamdb_link": "https://steamdb.info/app/784950/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784950/capsule_231x87.jpg"
+      },
+      {
+        "appid": "617830",
+        "name": "SUPERHOT VR",
+        "steam_link": "https://store.steampowered.com/app/617830/",
+        "steamdb_link": "https://steamdb.info/app/617830/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617830/capsule_231x87.jpg"
+      },
+      {
+        "appid": "475490",
+        "name": "Major\\Minor",
+        "steam_link": "https://store.steampowered.com/app/475490/",
+        "steamdb_link": "https://steamdb.info/app/475490/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/475490/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1638390",
+        "name": "Indies' Lies",
+        "steam_link": "https://store.steampowered.com/app/1638390/",
+        "steamdb_link": "https://steamdb.info/app/1638390/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1638390/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1369470",
+        "name": "Pincremental",
+        "steam_link": "https://store.steampowered.com/app/1369470/",
+        "steamdb_link": "https://steamdb.info/app/1369470/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369470/capsule_231x87.jpg"
+      },
+      {
+        "appid": "979920",
+        "name": "Supremacy: 1914",
+        "steam_link": "https://store.steampowered.com/app/979920/",
+        "steamdb_link": "https://steamdb.info/app/979920/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979920/capsule_231x87.jpg"
+      },
+      {
+        "appid": "212200",
+        "name": "Mabinogi",
+        "steam_link": "https://store.steampowered.com/app/212200/",
+        "steamdb_link": "https://steamdb.info/app/212200/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212200/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2004320",
+        "name": "Duelyst II",
+        "steam_link": "https://store.steampowered.com/app/2004320/",
+        "steamdb_link": "https://steamdb.info/app/2004320/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2004320/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1910780",
+        "name": "Fray Fight",
+        "steam_link": "https://store.steampowered.com/app/1910780/",
+        "steamdb_link": "https://steamdb.info/app/1910780/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1910780/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1131080",
+        "name": "Deadswitch 3",
+        "steam_link": "https://store.steampowered.com/app/1131080/",
+        "steamdb_link": "https://steamdb.info/app/1131080/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1131080/capsule_231x87.jpg"
+      },
+      {
+        "appid": "288040",
+        "name": "Actual Sunlight",
+        "steam_link": "https://store.steampowered.com/app/288040/",
+        "steamdb_link": "https://steamdb.info/app/288040/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288040/capsule_231x87.jpg"
+      },
+      {
+        "appid": "672680",
+        "name": "Supremacy: Call of War 1942",
+        "steam_link": "https://store.steampowered.com/app/672680/",
+        "steamdb_link": "https://steamdb.info/app/672680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/672680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1138080",
+        "name": "ddz shaonv",
+        "steam_link": "https://store.steampowered.com/app/1138080/",
+        "steamdb_link": "https://steamdb.info/app/1138080/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1138080/capsule_231x87.jpg"
+      },
+      {
+        "appid": "692920",
+        "name": "XXZ",
+        "steam_link": "https://store.steampowered.com/app/692920/",
+        "steamdb_link": "https://steamdb.info/app/692920/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/692920/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1172710",
+        "name": "Dune: Awakening",
+        "steam_link": "https://store.steampowered.com/app/1172710/",
+        "steamdb_link": "https://steamdb.info/app/1172710/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/capsule_231x87.jpg"
+      },
+      {
+        "appid": "684450",
+        "name": "Surviving the Aftermath",
+        "steam_link": "https://store.steampowered.com/app/684450/",
+        "steamdb_link": "https://steamdb.info/app/684450/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/684450/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1048370",
+        "name": "Idle Skilling",
+        "steam_link": "https://store.steampowered.com/app/1048370/",
+        "steamdb_link": "https://steamdb.info/app/1048370/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1048370/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1158690",
+        "name": "Uncharted Ocean",
+        "steam_link": "https://store.steampowered.com/app/1158690/",
+        "steamdb_link": "https://steamdb.info/app/1158690/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158690/capsule_231x87.jpg"
+      },
+      {
+        "appid": "528460",
+        "name": "Rogalia",
+        "steam_link": "https://store.steampowered.com/app/528460/",
+        "steamdb_link": "https://steamdb.info/app/528460/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528460/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1443820",
+        "name": "BustyBiz",
+        "steam_link": "https://store.steampowered.com/app/1443820/",
+        "steamdb_link": "https://steamdb.info/app/1443820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "244770",
+        "name": "StarMade",
+        "steam_link": "https://store.steampowered.com/app/244770/",
+        "steamdb_link": "https://steamdb.info/app/244770/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244770/capsule_231x87.jpg"
+      },
+      {
+        "appid": "212160",
+        "name": "Vindictus",
+        "steam_link": "https://store.steampowered.com/app/212160/",
+        "steamdb_link": "https://steamdb.info/app/212160/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212160/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1117160",
+        "name": "Minds of Nations",
+        "steam_link": "https://store.steampowered.com/app/1117160/",
+        "steamdb_link": "https://steamdb.info/app/1117160/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1117160/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1821570",
+        "name": "Six Braves 🕌",
+        "steam_link": "https://store.steampowered.com/app/1821570/",
+        "steamdb_link": "https://steamdb.info/app/1821570/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1821570/capsule_231x87.jpg"
+      },
+      {
+        "appid": "489220",
+        "name": "Unforgiving Trials: The Darkest Crusade",
+        "steam_link": "https://store.steampowered.com/app/489220/",
+        "steamdb_link": "https://steamdb.info/app/489220/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489220/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2674290",
+        "name": "Kings Call",
+        "steam_link": "https://store.steampowered.com/app/2674290/",
+        "steamdb_link": "https://steamdb.info/app/2674290/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2674290/capsule_231x87.jpg"
+      },
+      {
+        "appid": "216150",
+        "name": "MapleStory",
+        "steam_link": "https://store.steampowered.com/app/216150/",
+        "steamdb_link": "https://steamdb.info/app/216150/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/capsule_231x87.jpg"
+      },
+      {
+        "appid": "725780",
+        "name": "Play With Me: Escape Room",
+        "steam_link": "https://store.steampowered.com/app/725780/",
+        "steamdb_link": "https://steamdb.info/app/725780/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/725780/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1375740",
+        "name": "Surviv.io - 2D Battle Royale",
+        "steam_link": "https://store.steampowered.com/app/1375740/",
+        "steamdb_link": "https://steamdb.info/app/1375740/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1375740/capsule_231x87.jpg"
+      },
+      {
+        "appid": "603750",
+        "name": "- Arcane Raise -",
+        "steam_link": "https://store.steampowered.com/app/603750/",
+        "steamdb_link": "https://steamdb.info/app/603750/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/603750/capsule_231x87.jpg"
+      },
+      {
+        "appid": "500710",
+        "name": "Wild Terra Online",
+        "steam_link": "https://store.steampowered.com/app/500710/",
+        "steamdb_link": "https://steamdb.info/app/500710/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/500710/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1061880",
+        "name": "Conan Chop Chop",
+        "steam_link": "https://store.steampowered.com/app/1061880/",
+        "steamdb_link": "https://steamdb.info/app/1061880/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1061880/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2349820",
+        "name": "Hero's Land",
+        "steam_link": "https://store.steampowered.com/app/2349820/",
+        "steamdb_link": "https://steamdb.info/app/2349820/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2349820/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3247080",
+        "name": "UNLIGHT:Revive",
+        "steam_link": "https://store.steampowered.com/app/3247080/",
+        "steamdb_link": "https://steamdb.info/app/3247080/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3247080/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2712540",
+        "name": "完蛋！我也能追到美女了！",
+        "steam_link": "https://store.steampowered.com/app/2712540/",
+        "steamdb_link": "https://steamdb.info/app/2712540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2712540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "336510",
+        "name": "Anno Online",
+        "steam_link": "https://store.steampowered.com/app/336510/",
+        "steamdb_link": "https://steamdb.info/app/336510/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336510/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3358510",
+        "name": "再刷一把2：金色传说",
+        "steam_link": "https://store.steampowered.com/app/3358510/",
+        "steamdb_link": "https://steamdb.info/app/3358510/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3358510/capsule_231x87.jpg"
+      },
+      {
+        "appid": "336520",
+        "name": "Might &amp; Magic Heroes Online",
+        "steam_link": "https://store.steampowered.com/app/336520/",
+        "steamdb_link": "https://steamdb.info/app/336520/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336520/capsule_231x87.jpg"
+      },
+      {
+        "appid": "354640",
+        "name": "The Settlers Online",
+        "steam_link": "https://store.steampowered.com/app/354640/",
+        "steamdb_link": "https://steamdb.info/app/354640/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354640/capsule_231x87.jpg"
+      }
+    ]
+  },
+  "games": [
+    {
+      "appid": "3269960",
+      "name": "Shiina Taki's Decameron",
+      "steam_link": "https://store.steampowered.com/app/3269960/",
+      "steamdb_link": "https://steamdb.info/app/3269960/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3269960/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1288310",
+      "name": "Firework",
+      "steam_link": "https://store.steampowered.com/app/1288310/",
+      "steamdb_link": "https://steamdb.info/app/1288310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1288310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1150690",
+      "name": "OMORI",
+      "steam_link": "https://store.steampowered.com/app/1150690/",
+      "steamdb_link": "https://steamdb.info/app/1150690/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2167960",
+      "name": "Buy a Croquette!",
+      "steam_link": "https://store.steampowered.com/app/2167960/",
+      "steamdb_link": "https://steamdb.info/app/2167960/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2167960/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3373660",
+      "name": "Look Outside",
+      "steam_link": "https://store.steampowered.com/app/3373660/",
+      "steamdb_link": "https://steamdb.info/app/3373660/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3373660/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1901370",
+      "name": "Ib",
+      "steam_link": "https://store.steampowered.com/app/1901370/",
+      "steamdb_link": "https://steamdb.info/app/1901370/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1901370/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1093910",
+      "name": "Tales of the Black Forest",
+      "steam_link": "https://store.steampowered.com/app/1093910/",
+      "steamdb_link": "https://steamdb.info/app/1093910/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1093910/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1454400",
+      "name": "Cookie Clicker",
+      "steam_link": "https://store.steampowered.com/app/1454400/",
+      "steamdb_link": "https://steamdb.info/app/1454400/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1454400/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2299900",
+      "name": "Felvidek",
+      "steam_link": "https://store.steampowered.com/app/2299900/",
+      "steamdb_link": "https://steamdb.info/app/2299900/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2299900/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1530140",
+      "name": "Aventura Copilului Albastru și Urât",
+      "steam_link": "https://store.steampowered.com/app/1530140/",
+      "steamdb_link": "https://steamdb.info/app/1530140/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530140/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1035990",
+      "name": "Dialtown: Phone Dating Sim",
+      "steam_link": "https://store.steampowered.com/app/1035990/",
+      "steamdb_link": "https://steamdb.info/app/1035990/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1035990/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2109460",
+      "name": "VillageRhapsody",
+      "steam_link": "https://store.steampowered.com/app/2109460/",
+      "steamdb_link": "https://steamdb.info/app/2109460/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2109460/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2378900",
+      "name": "The Coffin of Andy and Leyley",
+      "steam_link": "https://store.steampowered.com/app/2378900/",
+      "steamdb_link": "https://steamdb.info/app/2378900/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2378900/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2067780",
+      "name": "Your Turn To Die -Death Game By Majority-",
+      "steam_link": "https://store.steampowered.com/app/2067780/",
+      "steamdb_link": "https://steamdb.info/app/2067780/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2067780/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1677310",
+      "name": "In Stars And Time",
+      "steam_link": "https://store.steampowered.com/app/1677310/",
+      "steamdb_link": "https://steamdb.info/app/1677310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1318690",
+      "name": "shapez",
+      "steam_link": "https://store.steampowered.com/app/1318690/",
+      "steamdb_link": "https://steamdb.info/app/1318690/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1318690/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2434340",
+      "name": "BLACK BOX LSS - The Shining Immortal",
+      "steam_link": "https://store.steampowered.com/app/2434340/",
+      "steamdb_link": "https://steamdb.info/app/2434340/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2434340/capsule_231x87.jpg"
+    },
+    {
+      "appid": "239820",
+      "name": "Game Dev Tycoon",
+      "steam_link": "https://store.steampowered.com/app/239820/",
+      "steamdb_link": "https://steamdb.info/app/239820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "844590",
+      "name": "Hypnospace Outlaw",
+      "steam_link": "https://store.steampowered.com/app/844590/",
+      "steamdb_link": "https://steamdb.info/app/844590/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/844590/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3900710",
+      "name": "Alabaster Dawn Demo",
+      "steam_link": "https://store.steampowered.com/app/3900710/",
+      "steamdb_link": "https://steamdb.info/app/3900710/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900710/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1834870",
+      "name": "Lily's Well",
+      "steam_link": "https://store.steampowered.com/app/1834870/",
+      "steamdb_link": "https://steamdb.info/app/1834870/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1834870/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2302540",
+      "name": "花火与幽灵少女 - Hanabi and Ghost girl",
+      "steam_link": "https://store.steampowered.com/app/2302540/",
+      "steamdb_link": "https://steamdb.info/app/2302540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2302540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1216200",
+      "name": "Coloring Game 2",
+      "steam_link": "https://store.steampowered.com/app/1216200/",
+      "steamdb_link": "https://steamdb.info/app/1216200/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1216200/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1888010",
+      "name": "Towards Future",
+      "steam_link": "https://store.steampowered.com/app/1888010/",
+      "steamdb_link": "https://steamdb.info/app/1888010/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888010/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1002300",
+      "name": "Fear &amp; Hunger",
+      "steam_link": "https://store.steampowered.com/app/1002300/",
+      "steamdb_link": "https://steamdb.info/app/1002300/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2848420",
+      "name": "My succubus Kukula",
+      "steam_link": "https://store.steampowered.com/app/2848420/",
+      "steamdb_link": "https://steamdb.info/app/2848420/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2848420/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1812820",
+      "name": "Bitburner",
+      "steam_link": "https://store.steampowered.com/app/1812820/",
+      "steamdb_link": "https://steamdb.info/app/1812820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1619750",
+      "name": "Karryn's Prison",
+      "steam_link": "https://store.steampowered.com/app/1619750/",
+      "steamdb_link": "https://steamdb.info/app/1619750/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619750/capsule_231x87.jpg"
+    },
+    {
+      "appid": "373390",
+      "name": "Contradiction: Spot The Liar",
+      "steam_link": "https://store.steampowered.com/app/373390/",
+      "steamdb_link": "https://steamdb.info/app/373390/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373390/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1673190",
+      "name": "Bahamut2-dragon's bride",
+      "steam_link": "https://store.steampowered.com/app/1673190/",
+      "steamdb_link": "https://steamdb.info/app/1673190/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1673190/capsule_231x87.jpg"
+    },
+    {
+      "appid": "723090",
+      "name": "Meltys Quest",
+      "steam_link": "https://store.steampowered.com/app/723090/",
+      "steamdb_link": "https://steamdb.info/app/723090/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/723090/capsule_231x87.jpg"
+    },
+    {
+      "appid": "368340",
+      "name": "CrossCode",
+      "steam_link": "https://store.steampowered.com/app/368340/",
+      "steamdb_link": "https://steamdb.info/app/368340/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368340/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1275350",
+      "name": "Ninja Kiwi Archive",
+      "steam_link": "https://store.steampowered.com/app/1275350/",
+      "steamdb_link": "https://steamdb.info/app/1275350/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275350/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1057680",
+      "name": "人间 The Lost We Lost",
+      "steam_link": "https://store.steampowered.com/app/1057680/",
+      "steamdb_link": "https://steamdb.info/app/1057680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1168470",
+      "name": "千面 Melancholy Love",
+      "steam_link": "https://store.steampowered.com/app/1168470/",
+      "steamdb_link": "https://steamdb.info/app/1168470/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1168470/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1511270",
+      "name": "Ann",
+      "steam_link": "https://store.steampowered.com/app/1511270/",
+      "steamdb_link": "https://steamdb.info/app/1511270/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1511270/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1162070",
+      "name": "Nyakori's Rabbit Doll",
+      "steam_link": "https://store.steampowered.com/app/1162070/",
+      "steamdb_link": "https://steamdb.info/app/1162070/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1162070/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1275640",
+      "name": "Coloring Game 3",
+      "steam_link": "https://store.steampowered.com/app/1275640/",
+      "steamdb_link": "https://steamdb.info/app/1275640/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275640/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1450830",
+      "name": "At Dead Of Night",
+      "steam_link": "https://store.steampowered.com/app/1450830/",
+      "steamdb_link": "https://steamdb.info/app/1450830/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1450830/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1737100",
+      "name": "Treasure of Nadia",
+      "steam_link": "https://store.steampowered.com/app/1737100/",
+      "steamdb_link": "https://steamdb.info/app/1737100/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1737100/capsule_231x87.jpg"
+    },
+    {
+      "appid": "630060",
+      "name": "寇莎梅特：困世迷情 Consummate:Missing World",
+      "steam_link": "https://store.steampowered.com/app/630060/",
+      "steamdb_link": "https://steamdb.info/app/630060/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/630060/capsule_231x87.jpg"
+    },
+    {
+      "appid": "322500",
+      "name": "SUPERHOT",
+      "steam_link": "https://store.steampowered.com/app/322500/",
+      "steamdb_link": "https://steamdb.info/app/322500/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322500/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1984350",
+      "name": "打工吧！天使酱 ~天使在魔界的劳改生活~",
+      "steam_link": "https://store.steampowered.com/app/1984350/",
+      "steamdb_link": "https://steamdb.info/app/1984350/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984350/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1066900",
+      "name": "qomp",
+      "steam_link": "https://store.steampowered.com/app/1066900/",
+      "steamdb_link": "https://steamdb.info/app/1066900/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1066900/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2961460",
+      "name": "神树残响（Echoes of the Divine Tree）",
+      "steam_link": "https://store.steampowered.com/app/2961460/",
+      "steamdb_link": "https://steamdb.info/app/2961460/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2961460/capsule_231x87.jpg"
+    },
+    {
+      "appid": "939330",
+      "name": "Tailor Tales",
+      "steam_link": "https://store.steampowered.com/app/939330/",
+      "steamdb_link": "https://steamdb.info/app/939330/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/939330/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1306750",
+      "name": "黑色花与红山羊 / Black Datura &amp; Red Goat",
+      "steam_link": "https://store.steampowered.com/app/1306750/",
+      "steamdb_link": "https://steamdb.info/app/1306750/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1306750/capsule_231x87.jpg"
+    },
+    {
+      "appid": "435300",
+      "name": "We Know the Devil",
+      "steam_link": "https://store.steampowered.com/app/435300/",
+      "steamdb_link": "https://steamdb.info/app/435300/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435300/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1399720",
+      "name": "Antimatter Dimensions",
+      "steam_link": "https://store.steampowered.com/app/1399720/",
+      "steamdb_link": "https://steamdb.info/app/1399720/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1399720/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1146970",
+      "name": "My Vow to My Liege",
+      "steam_link": "https://store.steampowered.com/app/1146970/",
+      "steamdb_link": "https://steamdb.info/app/1146970/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1146970/capsule_231x87.jpg"
+    },
+    {
+      "appid": "876850",
+      "name": "WhiteLily 1：丽丽公主",
+      "steam_link": "https://store.steampowered.com/app/876850/",
+      "steamdb_link": "https://steamdb.info/app/876850/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/876850/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1026820",
+      "name": "Coloring Game",
+      "steam_link": "https://store.steampowered.com/app/1026820/",
+      "steamdb_link": "https://steamdb.info/app/1026820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1026820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1132190",
+      "name": "Coloring Game: Little City",
+      "steam_link": "https://store.steampowered.com/app/1132190/",
+      "steamdb_link": "https://steamdb.info/app/1132190/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1132190/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3270680",
+      "name": "Kota`s New Journey",
+      "steam_link": "https://store.steampowered.com/app/3270680/",
+      "steamdb_link": "https://steamdb.info/app/3270680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1899060",
+      "name": "Pocket Mirror ~ GoldenerTraum",
+      "steam_link": "https://store.steampowered.com/app/1899060/",
+      "steamdb_link": "https://steamdb.info/app/1899060/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1899060/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1212400",
+      "name": "Heroines of Swords &amp; Spells",
+      "steam_link": "https://store.steampowered.com/app/1212400/",
+      "steamdb_link": "https://steamdb.info/app/1212400/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1212400/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1267910",
+      "name": "Melvor Idle",
+      "steam_link": "https://store.steampowered.com/app/1267910/",
+      "steamdb_link": "https://steamdb.info/app/1267910/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267910/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1705140",
+      "name": "Final Profit: A Shop RPG",
+      "steam_link": "https://store.steampowered.com/app/1705140/",
+      "steamdb_link": "https://steamdb.info/app/1705140/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1705140/capsule_231x87.jpg"
+    },
+    {
+      "appid": "358130",
+      "name": "Curious Expedition",
+      "steam_link": "https://store.steampowered.com/app/358130/",
+      "steamdb_link": "https://steamdb.info/app/358130/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/358130/capsule_231x87.jpg"
+    },
+    {
+      "appid": "453340",
+      "name": "Hustle Cat",
+      "steam_link": "https://store.steampowered.com/app/453340/",
+      "steamdb_link": "https://steamdb.info/app/453340/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/453340/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1554790",
+      "name": "Coloring Game 4",
+      "steam_link": "https://store.steampowered.com/app/1554790/",
+      "steamdb_link": "https://steamdb.info/app/1554790/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1554790/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2399910",
+      "name": "Byakuya Museum",
+      "steam_link": "https://store.steampowered.com/app/2399910/",
+      "steamdb_link": "https://steamdb.info/app/2399910/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399910/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1494190",
+      "name": "秘密舞会",
+      "steam_link": "https://store.steampowered.com/app/1494190/",
+      "steamdb_link": "https://steamdb.info/app/1494190/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494190/capsule_231x87.jpg"
+    },
+    {
+      "appid": "948830",
+      "name": "寄甡 Symbiotic Love",
+      "steam_link": "https://store.steampowered.com/app/948830/",
+      "steamdb_link": "https://steamdb.info/app/948830/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/948830/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1735950",
+      "name": "Paper Bride",
+      "steam_link": "https://store.steampowered.com/app/1735950/",
+      "steamdb_link": "https://steamdb.info/app/1735950/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1735950/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1939790",
+      "name": "Paper Bride 3 Unresolved Love",
+      "steam_link": "https://store.steampowered.com/app/1939790/",
+      "steamdb_link": "https://steamdb.info/app/1939790/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1939790/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3001970",
+      "name": "Coloring Game 5",
+      "steam_link": "https://store.steampowered.com/app/3001970/",
+      "steamdb_link": "https://steamdb.info/app/3001970/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3001970/capsule_231x87.jpg"
+    },
+    {
+      "appid": "956450",
+      "name": "Rogue Fable III",
+      "steam_link": "https://store.steampowered.com/app/956450/",
+      "steamdb_link": "https://steamdb.info/app/956450/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/956450/capsule_231x87.jpg"
+    },
+    {
+      "appid": "296870",
+      "name": "Dreaming Sarah",
+      "steam_link": "https://store.steampowered.com/app/296870/",
+      "steamdb_link": "https://steamdb.info/app/296870/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/296870/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2019680",
+      "name": "Lewd Gym",
+      "steam_link": "https://store.steampowered.com/app/2019680/",
+      "steamdb_link": "https://steamdb.info/app/2019680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2019680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1070020",
+      "name": "我的纸片人女友/Make butter together!",
+      "steam_link": "https://store.steampowered.com/app/1070020/",
+      "steamdb_link": "https://steamdb.info/app/1070020/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070020/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1877960",
+      "name": "Trimps",
+      "steam_link": "https://store.steampowered.com/app/1877960/",
+      "steamdb_link": "https://steamdb.info/app/1877960/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1877960/capsule_231x87.jpg"
+    },
+    {
+      "appid": "335240",
+      "name": "Transformice",
+      "steam_link": "https://store.steampowered.com/app/335240/",
+      "steamdb_link": "https://steamdb.info/app/335240/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/335240/capsule_231x87.jpg"
+    },
+    {
+      "appid": "942930",
+      "name": "枕边少女 MOE Hypnotist - share dreams with you",
+      "steam_link": "https://store.steampowered.com/app/942930/",
+      "steamdb_link": "https://steamdb.info/app/942930/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/942930/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1879380",
+      "name": "Paper Bride 2 Zangling Village",
+      "steam_link": "https://store.steampowered.com/app/1879380/",
+      "steamdb_link": "https://steamdb.info/app/1879380/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1879380/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1416240",
+      "name": "夜永 Eternal Love",
+      "steam_link": "https://store.steampowered.com/app/1416240/",
+      "steamdb_link": "https://steamdb.info/app/1416240/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1416240/capsule_231x87.jpg"
+    },
+    {
+      "appid": "578900",
+      "name": "Demonheart",
+      "steam_link": "https://store.steampowered.com/app/578900/",
+      "steamdb_link": "https://steamdb.info/app/578900/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578900/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1478160",
+      "name": "Nyaruru Fishy Fight",
+      "steam_link": "https://store.steampowered.com/app/1478160/",
+      "steamdb_link": "https://steamdb.info/app/1478160/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1478160/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2697490",
+      "name": "欺神弄鬼",
+      "steam_link": "https://store.steampowered.com/app/2697490/",
+      "steamdb_link": "https://steamdb.info/app/2697490/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2697490/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2460070",
+      "name": "Half-Demon Shinobi",
+      "steam_link": "https://store.steampowered.com/app/2460070/",
+      "steamdb_link": "https://steamdb.info/app/2460070/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2460070/capsule_231x87.jpg"
+    },
+    {
+      "appid": "998940",
+      "name": "隐形守护者 The Invisible Guardian",
+      "steam_link": "https://store.steampowered.com/app/998940/",
+      "steamdb_link": "https://steamdb.info/app/998940/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/998940/capsule_231x87.jpg"
+    },
+    {
+      "appid": "554600",
+      "name": "Learn Japanese To Survive! Katakana War",
+      "steam_link": "https://store.steampowered.com/app/554600/",
+      "steamdb_link": "https://steamdb.info/app/554600/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554600/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2053940",
+      "name": "Idol Hands 2",
+      "steam_link": "https://store.steampowered.com/app/2053940/",
+      "steamdb_link": "https://steamdb.info/app/2053940/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2053940/capsule_231x87.jpg"
+    },
+    {
+      "appid": "278890",
+      "name": "Angvik",
+      "steam_link": "https://store.steampowered.com/app/278890/",
+      "steamdb_link": "https://steamdb.info/app/278890/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278890/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2696050",
+      "name": "Yarimono",
+      "steam_link": "https://store.steampowered.com/app/2696050/",
+      "steamdb_link": "https://steamdb.info/app/2696050/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2696050/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2059310",
+      "name": "Daily life with my succubus boss",
+      "steam_link": "https://store.steampowered.com/app/2059310/",
+      "steamdb_link": "https://steamdb.info/app/2059310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2059310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2553870",
+      "name": "The Genesis Order",
+      "steam_link": "https://store.steampowered.com/app/2553870/",
+      "steamdb_link": "https://steamdb.info/app/2553870/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2553870/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1363850",
+      "name": "THE IMPOSSIBLE",
+      "steam_link": "https://store.steampowered.com/app/1363850/",
+      "steamdb_link": "https://steamdb.info/app/1363850/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363850/capsule_231x87.jpg"
+    },
+    {
+      "appid": "464350",
+      "name": "Screeps: World",
+      "steam_link": "https://store.steampowered.com/app/464350/",
+      "steamdb_link": "https://steamdb.info/app/464350/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/464350/capsule_231x87.jpg"
+    },
+    {
+      "appid": "682130",
+      "name": "Discord Bot Maker",
+      "steam_link": "https://store.steampowered.com/app/682130/",
+      "steamdb_link": "https://steamdb.info/app/682130/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/682130/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1581800",
+      "name": "Slow living with Princess",
+      "steam_link": "https://store.steampowered.com/app/1581800/",
+      "steamdb_link": "https://steamdb.info/app/1581800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1581800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "853450",
+      "name": "Nevergrind Online",
+      "steam_link": "https://store.steampowered.com/app/853450/",
+      "steamdb_link": "https://steamdb.info/app/853450/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/853450/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2578910",
+      "name": "Nocturnals",
+      "steam_link": "https://store.steampowered.com/app/2578910/",
+      "steamdb_link": "https://steamdb.info/app/2578910/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2578910/capsule_231x87.jpg"
+    },
+    {
+      "appid": "466270",
+      "name": "Half-Life: A Place in the West",
+      "steam_link": "https://store.steampowered.com/app/466270/",
+      "steamdb_link": "https://steamdb.info/app/466270/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/466270/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1674890",
+      "name": "👑 Idle Calibur 👑（选王之剑）",
+      "steam_link": "https://store.steampowered.com/app/1674890/",
+      "steamdb_link": "https://steamdb.info/app/1674890/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1674890/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2723520",
+      "name": "Misha's incident",
+      "steam_link": "https://store.steampowered.com/app/2723520/",
+      "steamdb_link": "https://steamdb.info/app/2723520/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2723520/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1003480",
+      "name": "Fireboy &amp; Watergirl: Elements",
+      "steam_link": "https://store.steampowered.com/app/1003480/",
+      "steamdb_link": "https://steamdb.info/app/1003480/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1003480/capsule_231x87.jpg"
+    },
+    {
+      "appid": "690040",
+      "name": "SUPERHOT: MIND CONTROL DELETE",
+      "steam_link": "https://store.steampowered.com/app/690040/",
+      "steamdb_link": "https://steamdb.info/app/690040/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/690040/capsule_231x87.jpg"
+    },
+    {
+      "appid": "379210",
+      "name": "Wayward",
+      "steam_link": "https://store.steampowered.com/app/379210/",
+      "steamdb_link": "https://steamdb.info/app/379210/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379210/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1219240",
+      "name": "BioGun",
+      "steam_link": "https://store.steampowered.com/app/1219240/",
+      "steamdb_link": "https://steamdb.info/app/1219240/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1219240/capsule_231x87.jpg"
+    },
+    {
+      "appid": "791330",
+      "name": "Fallen ~Makina and the City of Ruins~",
+      "steam_link": "https://store.steampowered.com/app/791330/",
+      "steamdb_link": "https://steamdb.info/app/791330/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/791330/capsule_231x87.jpg"
+    },
+    {
+      "appid": "399820",
+      "name": "Kopanito All-Stars Soccer",
+      "steam_link": "https://store.steampowered.com/app/399820/",
+      "steamdb_link": "https://steamdb.info/app/399820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/399820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "759940",
+      "name": "前程似锦 Excellent Expectations",
+      "steam_link": "https://store.steampowered.com/app/759940/",
+      "steamdb_link": "https://steamdb.info/app/759940/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/759940/capsule_231x87.jpg"
+    },
+    {
+      "appid": "707680",
+      "name": "Slapshot",
+      "steam_link": "https://store.steampowered.com/app/707680/",
+      "steamdb_link": "https://steamdb.info/app/707680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1864000",
+      "name": "Artis Impact",
+      "steam_link": "https://store.steampowered.com/app/1864000/",
+      "steamdb_link": "https://steamdb.info/app/1864000/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1864000/capsule_231x87.jpg"
+    },
+    {
+      "appid": "787450",
+      "name": "KOEWOTAYORINI / 声之寄托",
+      "steam_link": "https://store.steampowered.com/app/787450/",
+      "steamdb_link": "https://steamdb.info/app/787450/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787450/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1880330",
+      "name": "Sanfu",
+      "steam_link": "https://store.steampowered.com/app/1880330/",
+      "steamdb_link": "https://steamdb.info/app/1880330/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1880330/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1593350",
+      "name": "Increlution",
+      "steam_link": "https://store.steampowered.com/app/1593350/",
+      "steamdb_link": "https://steamdb.info/app/1593350/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593350/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2976870",
+      "name": "Taiwan Love Story⁵",
+      "steam_link": "https://store.steampowered.com/app/2976870/",
+      "steamdb_link": "https://steamdb.info/app/2976870/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2976870/capsule_231x87.jpg"
+    },
+    {
+      "appid": "290730",
+      "name": "My Lands: Black Gem Hunting",
+      "steam_link": "https://store.steampowered.com/app/290730/",
+      "steamdb_link": "https://steamdb.info/app/290730/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/290730/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2477950",
+      "name": "Nodes Escape",
+      "steam_link": "https://store.steampowered.com/app/2477950/",
+      "steamdb_link": "https://steamdb.info/app/2477950/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2477950/capsule_231x87.jpg"
+    },
+    {
+      "appid": "933940",
+      "name": "假如我是人工智能 Big Brother Is Shaping You",
+      "steam_link": "https://store.steampowered.com/app/933940/",
+      "steamdb_link": "https://steamdb.info/app/933940/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933940/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2600570",
+      "name": "Paper Bride 5 Two Lifetimes",
+      "steam_link": "https://store.steampowered.com/app/2600570/",
+      "steamdb_link": "https://steamdb.info/app/2600570/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2600570/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1745310",
+      "name": "Idol Hands",
+      "steam_link": "https://store.steampowered.com/app/1745310/",
+      "steamdb_link": "https://steamdb.info/app/1745310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1745310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1669000",
+      "name": "Age of Wonders 4",
+      "steam_link": "https://store.steampowered.com/app/1669000/",
+      "steamdb_link": "https://steamdb.info/app/1669000/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1614040",
+      "name": "How We Got Here",
+      "steam_link": "https://store.steampowered.com/app/1614040/",
+      "steamdb_link": "https://steamdb.info/app/1614040/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1614040/capsule_231x87.jpg"
+    },
+    {
+      "appid": "291410",
+      "name": "Duelyst",
+      "steam_link": "https://store.steampowered.com/app/291410/",
+      "steamdb_link": "https://steamdb.info/app/291410/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291410/capsule_231x87.jpg"
+    },
+    {
+      "appid": "984560",
+      "name": "HEARTBEAT",
+      "steam_link": "https://store.steampowered.com/app/984560/",
+      "steamdb_link": "https://steamdb.info/app/984560/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/984560/capsule_231x87.jpg"
+    },
+    {
+      "appid": "606800",
+      "name": "Startup Company",
+      "steam_link": "https://store.steampowered.com/app/606800/",
+      "steamdb_link": "https://steamdb.info/app/606800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "482920",
+      "name": "Hero Zero - Multiplayer RPG",
+      "steam_link": "https://store.steampowered.com/app/482920/",
+      "steamdb_link": "https://steamdb.info/app/482920/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/482920/capsule_231x87.jpg"
+    },
+    {
+      "appid": "317250",
+      "name": "Airscape - The Fall of Gravity",
+      "steam_link": "https://store.steampowered.com/app/317250/",
+      "steamdb_link": "https://steamdb.info/app/317250/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/317250/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1476970",
+      "name": "IdleOn",
+      "steam_link": "https://store.steampowered.com/app/1476970/",
+      "steamdb_link": "https://steamdb.info/app/1476970/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1476970/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1622780",
+      "name": "Latex Dungeon",
+      "steam_link": "https://store.steampowered.com/app/1622780/",
+      "steamdb_link": "https://steamdb.info/app/1622780/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1622780/capsule_231x87.jpg"
+    },
+    {
+      "appid": "545540",
+      "name": "The Infectious Madness of Doctor Dekker",
+      "steam_link": "https://store.steampowered.com/app/545540/",
+      "steamdb_link": "https://steamdb.info/app/545540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/545540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "440900",
+      "name": "Conan Exiles",
+      "steam_link": "https://store.steampowered.com/app/440900/",
+      "steamdb_link": "https://steamdb.info/app/440900/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1408720",
+      "name": "Krunker",
+      "steam_link": "https://store.steampowered.com/app/1408720/",
+      "steamdb_link": "https://steamdb.info/app/1408720/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1408720/capsule_231x87.jpg"
+    },
+    {
+      "appid": "673260",
+      "name": "Starblast",
+      "steam_link": "https://store.steampowered.com/app/673260/",
+      "steamdb_link": "https://steamdb.info/app/673260/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/673260/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1740730",
+      "name": "Flesh Water",
+      "steam_link": "https://store.steampowered.com/app/1740730/",
+      "steamdb_link": "https://steamdb.info/app/1740730/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1740730/capsule_231x87.jpg"
+    },
+    {
+      "appid": "571350",
+      "name": "DED",
+      "steam_link": "https://store.steampowered.com/app/571350/",
+      "steamdb_link": "https://steamdb.info/app/571350/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571350/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2403290",
+      "name": "Boyhood's End",
+      "steam_link": "https://store.steampowered.com/app/2403290/",
+      "steamdb_link": "https://steamdb.info/app/2403290/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2403290/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1854250",
+      "name": "Demon Speakeasy",
+      "steam_link": "https://store.steampowered.com/app/1854250/",
+      "steamdb_link": "https://steamdb.info/app/1854250/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1854250/capsule_231x87.jpg"
+    },
+    {
+      "appid": "531960",
+      "name": "Bloody Walls",
+      "steam_link": "https://store.steampowered.com/app/531960/",
+      "steamdb_link": "https://steamdb.info/app/531960/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/531960/capsule_231x87.jpg"
+    },
+    {
+      "appid": "892630",
+      "name": "Mojo: Hanako",
+      "steam_link": "https://store.steampowered.com/app/892630/",
+      "steamdb_link": "https://steamdb.info/app/892630/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892630/capsule_231x87.jpg"
+    },
+    {
+      "appid": "950530",
+      "name": "Mojo 2: Mia",
+      "steam_link": "https://store.steampowered.com/app/950530/",
+      "steamdb_link": "https://steamdb.info/app/950530/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/950530/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2329630",
+      "name": "Lovey-Dovey Lockdown",
+      "steam_link": "https://store.steampowered.com/app/2329630/",
+      "steamdb_link": "https://steamdb.info/app/2329630/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2329630/capsule_231x87.jpg"
+    },
+    {
+      "appid": "898920",
+      "name": "Axis &amp; Allies 1942 Online",
+      "steam_link": "https://store.steampowered.com/app/898920/",
+      "steamdb_link": "https://steamdb.info/app/898920/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/898920/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1590360",
+      "name": "He Needs His Medicine",
+      "steam_link": "https://store.steampowered.com/app/1590360/",
+      "steamdb_link": "https://steamdb.info/app/1590360/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1590360/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1658310",
+      "name": "Wolf of Stock Street",
+      "steam_link": "https://store.steampowered.com/app/1658310/",
+      "steamdb_link": "https://steamdb.info/app/1658310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1658310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "810670",
+      "name": "NALOGI",
+      "steam_link": "https://store.steampowered.com/app/810670/",
+      "steamdb_link": "https://steamdb.info/app/810670/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/810670/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1371630",
+      "name": "Incremental Adventures",
+      "steam_link": "https://store.steampowered.com/app/1371630/",
+      "steamdb_link": "https://steamdb.info/app/1371630/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1371630/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2865580",
+      "name": "Let's Minesweeper",
+      "steam_link": "https://store.steampowered.com/app/2865580/",
+      "steamdb_link": "https://steamdb.info/app/2865580/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2865580/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2286770",
+      "name": "Paper Bride 4 Bound Love",
+      "steam_link": "https://store.steampowered.com/app/2286770/",
+      "steamdb_link": "https://steamdb.info/app/2286770/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2286770/capsule_231x87.jpg"
+    },
+    {
+      "appid": "680980",
+      "name": "HEADLINER",
+      "steam_link": "https://store.steampowered.com/app/680980/",
+      "steamdb_link": "https://steamdb.info/app/680980/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/680980/capsule_231x87.jpg"
+    },
+    {
+      "appid": "784950",
+      "name": "SUPREMACY: WORLD WAR 3",
+      "steam_link": "https://store.steampowered.com/app/784950/",
+      "steamdb_link": "https://steamdb.info/app/784950/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784950/capsule_231x87.jpg"
+    },
+    {
+      "appid": "617830",
+      "name": "SUPERHOT VR",
+      "steam_link": "https://store.steampowered.com/app/617830/",
+      "steamdb_link": "https://steamdb.info/app/617830/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617830/capsule_231x87.jpg"
+    },
+    {
+      "appid": "475490",
+      "name": "Major\\Minor",
+      "steam_link": "https://store.steampowered.com/app/475490/",
+      "steamdb_link": "https://steamdb.info/app/475490/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/475490/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1638390",
+      "name": "Indies' Lies",
+      "steam_link": "https://store.steampowered.com/app/1638390/",
+      "steamdb_link": "https://steamdb.info/app/1638390/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1638390/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1369470",
+      "name": "Pincremental",
+      "steam_link": "https://store.steampowered.com/app/1369470/",
+      "steamdb_link": "https://steamdb.info/app/1369470/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369470/capsule_231x87.jpg"
+    },
+    {
+      "appid": "979920",
+      "name": "Supremacy: 1914",
+      "steam_link": "https://store.steampowered.com/app/979920/",
+      "steamdb_link": "https://steamdb.info/app/979920/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979920/capsule_231x87.jpg"
+    },
+    {
+      "appid": "212200",
+      "name": "Mabinogi",
+      "steam_link": "https://store.steampowered.com/app/212200/",
+      "steamdb_link": "https://steamdb.info/app/212200/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212200/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2004320",
+      "name": "Duelyst II",
+      "steam_link": "https://store.steampowered.com/app/2004320/",
+      "steamdb_link": "https://steamdb.info/app/2004320/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2004320/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1910780",
+      "name": "Fray Fight",
+      "steam_link": "https://store.steampowered.com/app/1910780/",
+      "steamdb_link": "https://steamdb.info/app/1910780/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1910780/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1131080",
+      "name": "Deadswitch 3",
+      "steam_link": "https://store.steampowered.com/app/1131080/",
+      "steamdb_link": "https://steamdb.info/app/1131080/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1131080/capsule_231x87.jpg"
+    },
+    {
+      "appid": "288040",
+      "name": "Actual Sunlight",
+      "steam_link": "https://store.steampowered.com/app/288040/",
+      "steamdb_link": "https://steamdb.info/app/288040/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288040/capsule_231x87.jpg"
+    },
+    {
+      "appid": "672680",
+      "name": "Supremacy: Call of War 1942",
+      "steam_link": "https://store.steampowered.com/app/672680/",
+      "steamdb_link": "https://steamdb.info/app/672680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/672680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1138080",
+      "name": "ddz shaonv",
+      "steam_link": "https://store.steampowered.com/app/1138080/",
+      "steamdb_link": "https://steamdb.info/app/1138080/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1138080/capsule_231x87.jpg"
+    },
+    {
+      "appid": "692920",
+      "name": "XXZ",
+      "steam_link": "https://store.steampowered.com/app/692920/",
+      "steamdb_link": "https://steamdb.info/app/692920/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/692920/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1172710",
+      "name": "Dune: Awakening",
+      "steam_link": "https://store.steampowered.com/app/1172710/",
+      "steamdb_link": "https://steamdb.info/app/1172710/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/capsule_231x87.jpg"
+    },
+    {
+      "appid": "684450",
+      "name": "Surviving the Aftermath",
+      "steam_link": "https://store.steampowered.com/app/684450/",
+      "steamdb_link": "https://steamdb.info/app/684450/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/684450/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1048370",
+      "name": "Idle Skilling",
+      "steam_link": "https://store.steampowered.com/app/1048370/",
+      "steamdb_link": "https://steamdb.info/app/1048370/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1048370/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1158690",
+      "name": "Uncharted Ocean",
+      "steam_link": "https://store.steampowered.com/app/1158690/",
+      "steamdb_link": "https://steamdb.info/app/1158690/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158690/capsule_231x87.jpg"
+    },
+    {
+      "appid": "528460",
+      "name": "Rogalia",
+      "steam_link": "https://store.steampowered.com/app/528460/",
+      "steamdb_link": "https://steamdb.info/app/528460/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528460/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1443820",
+      "name": "BustyBiz",
+      "steam_link": "https://store.steampowered.com/app/1443820/",
+      "steamdb_link": "https://steamdb.info/app/1443820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "244770",
+      "name": "StarMade",
+      "steam_link": "https://store.steampowered.com/app/244770/",
+      "steamdb_link": "https://steamdb.info/app/244770/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244770/capsule_231x87.jpg"
+    },
+    {
+      "appid": "212160",
+      "name": "Vindictus",
+      "steam_link": "https://store.steampowered.com/app/212160/",
+      "steamdb_link": "https://steamdb.info/app/212160/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212160/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1117160",
+      "name": "Minds of Nations",
+      "steam_link": "https://store.steampowered.com/app/1117160/",
+      "steamdb_link": "https://steamdb.info/app/1117160/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1117160/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1821570",
+      "name": "Six Braves 🕌",
+      "steam_link": "https://store.steampowered.com/app/1821570/",
+      "steamdb_link": "https://steamdb.info/app/1821570/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1821570/capsule_231x87.jpg"
+    },
+    {
+      "appid": "489220",
+      "name": "Unforgiving Trials: The Darkest Crusade",
+      "steam_link": "https://store.steampowered.com/app/489220/",
+      "steamdb_link": "https://steamdb.info/app/489220/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489220/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2674290",
+      "name": "Kings Call",
+      "steam_link": "https://store.steampowered.com/app/2674290/",
+      "steamdb_link": "https://steamdb.info/app/2674290/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2674290/capsule_231x87.jpg"
+    },
+    {
+      "appid": "216150",
+      "name": "MapleStory",
+      "steam_link": "https://store.steampowered.com/app/216150/",
+      "steamdb_link": "https://steamdb.info/app/216150/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/capsule_231x87.jpg"
+    },
+    {
+      "appid": "725780",
+      "name": "Play With Me: Escape Room",
+      "steam_link": "https://store.steampowered.com/app/725780/",
+      "steamdb_link": "https://steamdb.info/app/725780/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/725780/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1375740",
+      "name": "Surviv.io - 2D Battle Royale",
+      "steam_link": "https://store.steampowered.com/app/1375740/",
+      "steamdb_link": "https://steamdb.info/app/1375740/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1375740/capsule_231x87.jpg"
+    },
+    {
+      "appid": "603750",
+      "name": "- Arcane Raise -",
+      "steam_link": "https://store.steampowered.com/app/603750/",
+      "steamdb_link": "https://steamdb.info/app/603750/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/603750/capsule_231x87.jpg"
+    },
+    {
+      "appid": "500710",
+      "name": "Wild Terra Online",
+      "steam_link": "https://store.steampowered.com/app/500710/",
+      "steamdb_link": "https://steamdb.info/app/500710/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/500710/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1061880",
+      "name": "Conan Chop Chop",
+      "steam_link": "https://store.steampowered.com/app/1061880/",
+      "steamdb_link": "https://steamdb.info/app/1061880/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1061880/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2349820",
+      "name": "Hero's Land",
+      "steam_link": "https://store.steampowered.com/app/2349820/",
+      "steamdb_link": "https://steamdb.info/app/2349820/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2349820/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3247080",
+      "name": "UNLIGHT:Revive",
+      "steam_link": "https://store.steampowered.com/app/3247080/",
+      "steamdb_link": "https://steamdb.info/app/3247080/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3247080/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2712540",
+      "name": "完蛋！我也能追到美女了！",
+      "steam_link": "https://store.steampowered.com/app/2712540/",
+      "steamdb_link": "https://steamdb.info/app/2712540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2712540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "336510",
+      "name": "Anno Online",
+      "steam_link": "https://store.steampowered.com/app/336510/",
+      "steamdb_link": "https://steamdb.info/app/336510/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336510/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3358510",
+      "name": "再刷一把2：金色传说",
+      "steam_link": "https://store.steampowered.com/app/3358510/",
+      "steamdb_link": "https://steamdb.info/app/3358510/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3358510/capsule_231x87.jpg"
+    },
+    {
+      "appid": "336520",
+      "name": "Might &amp; Magic Heroes Online",
+      "steam_link": "https://store.steampowered.com/app/336520/",
+      "steamdb_link": "https://steamdb.info/app/336520/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336520/capsule_231x87.jpg"
+    },
+    {
+      "appid": "354640",
+      "name": "The Settlers Online",
+      "steam_link": "https://store.steampowered.com/app/354640/",
+      "steamdb_link": "https://steamdb.info/app/354640/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354640/capsule_231x87.jpg"
+    }
+  ],
+  "psn_matches": {}
+}
