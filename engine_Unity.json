@@ -1,0 +1,1420 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-08T12:24:41.768640",
+    "category": "Engine",
+    "technology": "Unity",
+    "total_games": 100,
+    "expected_games": 59476,
+    "retrieval_rate": "0.2%"
+  },
+  "technology_info": {
+    "data_s": "UNITY",
+    "link": "/tech/Engine/Unity/",
+    "count": 59476,
+    "games": [
+      {
+        "appid": "1118200",
+        "name": "People Playground",
+        "steam_link": "https://store.steampowered.com/app/1118200/",
+        "steamdb_link": "https://steamdb.info/app/1118200/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/capsule_231x87.jpg"
+      },
+      {
+        "appid": "431960",
+        "name": "Wallpaper Engine",
+        "steam_link": "https://store.steampowered.com/app/431960/",
+        "steamdb_link": "https://steamdb.info/app/431960/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1794680",
+        "name": "Vampire Survivors",
+        "steam_link": "https://store.steampowered.com/app/1794680/",
+        "steamdb_link": "https://steamdb.info/app/1794680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3164500",
+        "name": "Schedule I",
+        "steam_link": "https://store.steampowered.com/app/3164500/",
+        "steamdb_link": "https://steamdb.info/app/3164500/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/capsule_231x87.jpg"
+      },
+      {
+        "appid": "294100",
+        "name": "RimWorld",
+        "steam_link": "https://store.steampowered.com/app/294100/",
+        "steamdb_link": "https://steamdb.info/app/294100/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1055540",
+        "name": "A Short Hike",
+        "steam_link": "https://store.steampowered.com/app/1055540/",
+        "steamdb_link": "https://steamdb.info/app/1055540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1055540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "433340",
+        "name": "Slime Rancher",
+        "steam_link": "https://store.steampowered.com/app/433340/",
+        "steamdb_link": "https://steamdb.info/app/433340/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2527500",
+        "name": "MiSide",
+        "steam_link": "https://store.steampowered.com/app/2527500/",
+        "steamdb_link": "https://steamdb.info/app/2527500/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2134320",
+        "name": "ENA: Dream BBQ",
+        "steam_link": "https://store.steampowered.com/app/2134320/",
+        "steamdb_link": "https://steamdb.info/app/2134320/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2134320/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2795000",
+        "name": "The WereCleaner",
+        "steam_link": "https://store.steampowered.com/app/2795000/",
+        "steamdb_link": "https://steamdb.info/app/2795000/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795000/capsule_231x87.jpg"
+      },
+      {
+        "appid": "508440",
+        "name": "Totally Accurate Battle Simulator",
+        "steam_link": "https://store.steampowered.com/app/508440/",
+        "steamdb_link": "https://steamdb.info/app/508440/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1229490",
+        "name": "ULTRAKILL",
+        "steam_link": "https://store.steampowered.com/app/1229490/",
+        "steamdb_link": "https://steamdb.info/app/1229490/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1289310",
+        "name": "Helltaker",
+        "steam_link": "https://store.steampowered.com/app/1289310/",
+        "steamdb_link": "https://steamdb.info/app/1289310/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289310/capsule_231x87.jpg"
+      },
+      {
+        "appid": "960090",
+        "name": "Bloons TD 6",
+        "steam_link": "https://store.steampowered.com/app/960090/",
+        "steamdb_link": "https://steamdb.info/app/960090/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960090/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1966720",
+        "name": "Lethal Company",
+        "steam_link": "https://store.steampowered.com/app/1966720/",
+        "steamdb_link": "https://steamdb.info/app/1966720/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3419430",
+        "name": "Bongo Cat",
+        "steam_link": "https://store.steampowered.com/app/3419430/",
+        "steamdb_link": "https://steamdb.info/app/3419430/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1307580",
+        "name": "TOEM: A Photo Adventure",
+        "steam_link": "https://store.steampowered.com/app/1307580/",
+        "steamdb_link": "https://steamdb.info/app/1307580/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1307580/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1931770",
+        "name": "Chants of Sennaar",
+        "steam_link": "https://store.steampowered.com/app/1931770/",
+        "steamdb_link": "https://steamdb.info/app/1931770/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/capsule_231x87.jpg"
+      },
+      {
+        "appid": "367520",
+        "name": "Hollow Knight",
+        "steam_link": "https://store.steampowered.com/app/367520/",
+        "steamdb_link": "https://steamdb.info/app/367520/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1366540",
+        "name": "Dyson Sphere Program",
+        "steam_link": "https://store.steampowered.com/app/1366540/",
+        "steamdb_link": "https://steamdb.info/app/1366540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "774181",
+        "name": "Rhythm Doctor",
+        "steam_link": "https://store.steampowered.com/app/774181/",
+        "steamdb_link": "https://steamdb.info/app/774181/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg"
+      },
+      {
+        "appid": "264710",
+        "name": "Subnautica",
+        "steam_link": "https://store.steampowered.com/app/264710/",
+        "steamdb_link": "https://steamdb.info/app/264710/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1361320",
+        "name": "The Room 4: Old Sins",
+        "steam_link": "https://store.steampowered.com/app/1361320/",
+        "steamdb_link": "https://steamdb.info/app/1361320/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1669980",
+        "name": "Volcano Princess",
+        "steam_link": "https://store.steampowered.com/app/1669980/",
+        "steamdb_link": "https://steamdb.info/app/1669980/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3454610",
+        "name": "Poco",
+        "steam_link": "https://store.steampowered.com/app/3454610/",
+        "steamdb_link": "https://steamdb.info/app/3454610/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3454610/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1584090",
+        "name": "Touhou Mystia's Izakaya",
+        "steam_link": "https://store.steampowered.com/app/1584090/",
+        "steamdb_link": "https://steamdb.info/app/1584090/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1584090/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1040200",
+        "name": "Crime Scene Cleaner",
+        "steam_link": "https://store.steampowered.com/app/1040200/",
+        "steamdb_link": "https://steamdb.info/app/1040200/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/capsule_231x87.jpg"
+      },
+      {
+        "appid": "239030",
+        "name": "Papers, Please",
+        "steam_link": "https://store.steampowered.com/app/239030/",
+        "steamdb_link": "https://steamdb.info/app/239030/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239030/capsule_231x87.jpg"
+      },
+      {
+        "appid": "667970",
+        "name": "VTOL VR",
+        "steam_link": "https://store.steampowered.com/app/667970/",
+        "steamdb_link": "https://steamdb.info/app/667970/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/667970/capsule_231x87.jpg"
+      },
+      {
+        "appid": "288160",
+        "name": "The Room",
+        "steam_link": "https://store.steampowered.com/app/288160/",
+        "steamdb_link": "https://steamdb.info/app/288160/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288160/capsule_231x87.jpg"
+      },
+      {
+        "appid": "787480",
+        "name": "Phoenix Wright: Ace Attorney Trilogy",
+        "steam_link": "https://store.steampowered.com/app/787480/",
+        "steamdb_link": "https://steamdb.info/app/787480/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787480/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1082430",
+        "name": "Before Your Eyes",
+        "steam_link": "https://store.steampowered.com/app/1082430/",
+        "steamdb_link": "https://steamdb.info/app/1082430/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082430/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1533420",
+        "name": "Neon White",
+        "steam_link": "https://store.steampowered.com/app/1533420/",
+        "steamdb_link": "https://steamdb.info/app/1533420/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1533420/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1092790",
+        "name": "Inscryption",
+        "steam_link": "https://store.steampowered.com/app/1092790/",
+        "steamdb_link": "https://steamdb.info/app/1092790/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1868140",
+        "name": "DAVE THE DIVER",
+        "steam_link": "https://store.steampowered.com/app/1868140/",
+        "steamdb_link": "https://steamdb.info/app/1868140/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1424330",
+        "name": "Wobbledogs",
+        "steam_link": "https://store.steampowered.com/app/1424330/",
+        "steamdb_link": "https://steamdb.info/app/1424330/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1424330/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1240210",
+        "name": "There Is No Game: Wrong Dimension",
+        "steam_link": "https://store.steampowered.com/app/1240210/",
+        "steamdb_link": "https://steamdb.info/app/1240210/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1240210/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2263010",
+        "name": "Pineapple on pizza",
+        "steam_link": "https://store.steampowered.com/app/2263010/",
+        "steamdb_link": "https://steamdb.info/app/2263010/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2263010/capsule_231x87.jpg"
+      },
+      {
+        "appid": "457140",
+        "name": "Oxygen Not Included",
+        "steam_link": "https://store.steampowered.com/app/457140/",
+        "steamdb_link": "https://steamdb.info/app/457140/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1260520",
+        "name": "Patrick's Parabox",
+        "steam_link": "https://store.steampowered.com/app/1260520/",
+        "steamdb_link": "https://steamdb.info/app/1260520/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1260520/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1562700",
+        "name": "SANABI",
+        "steam_link": "https://store.steampowered.com/app/1562700/",
+        "steamdb_link": "https://steamdb.info/app/1562700/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3548580",
+        "name": "Chill with You : Lo-Fi Story",
+        "steam_link": "https://store.steampowered.com/app/3548580/",
+        "steamdb_link": "https://steamdb.info/app/3548580/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3548580/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2600140",
+        "name": "Please, Touch The Artwork 2",
+        "steam_link": "https://store.steampowered.com/app/2600140/",
+        "steamdb_link": "https://steamdb.info/app/2600140/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2600140/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3376990",
+        "name": "Kabuto Park",
+        "steam_link": "https://store.steampowered.com/app/3376990/",
+        "steamdb_link": "https://steamdb.info/app/3376990/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3376990/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1708150",
+        "name": "Juice Galaxy",
+        "steam_link": "https://store.steampowered.com/app/1708150/",
+        "steamdb_link": "https://steamdb.info/app/1708150/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1708150/capsule_231x87.jpg"
+      },
+      {
+        "appid": "304430",
+        "name": "INSIDE",
+        "steam_link": "https://store.steampowered.com/app/304430/",
+        "steamdb_link": "https://steamdb.info/app/304430/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304430/capsule_231x87.jpg"
+      },
+      {
+        "appid": "531510",
+        "name": "Just Shapes &amp; Beats",
+        "steam_link": "https://store.steampowered.com/app/531510/",
+        "steamdb_link": "https://steamdb.info/app/531510/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/531510/capsule_231x87.jpg"
+      },
+      {
+        "appid": "337340",
+        "name": "Finding Paradise",
+        "steam_link": "https://store.steampowered.com/app/337340/",
+        "steamdb_link": "https://steamdb.info/app/337340/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337340/capsule_231x87.jpg"
+      },
+      {
+        "appid": "4050060",
+        "name": "Shift At Midnight Multiplayer Demo",
+        "steam_link": "https://store.steampowered.com/app/4050060/",
+        "steamdb_link": "https://steamdb.info/app/4050060/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4050060/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3170150",
+        "name": "Cairn Demo",
+        "steam_link": "https://store.steampowered.com/app/3170150/",
+        "steamdb_link": "https://steamdb.info/app/3170150/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170150/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3241660",
+        "name": "R.E.P.O.",
+        "steam_link": "https://store.steampowered.com/app/3241660/",
+        "steamdb_link": "https://steamdb.info/app/3241660/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/capsule_231x87.jpg"
+      },
+      {
+        "appid": "636480",
+        "name": "Ravenfield",
+        "steam_link": "https://store.steampowered.com/app/636480/",
+        "steamdb_link": "https://steamdb.info/app/636480/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/636480/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1353230",
+        "name": "Bomb Rush Cyberfunk",
+        "steam_link": "https://store.steampowered.com/app/1353230/",
+        "steamdb_link": "https://steamdb.info/app/1353230/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1353230/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1057090",
+        "name": "Ori and the Will of the Wisps",
+        "steam_link": "https://store.steampowered.com/app/1057090/",
+        "steamdb_link": "https://steamdb.info/app/1057090/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg"
+      },
+      {
+        "appid": "274190",
+        "name": "Broforce",
+        "steam_link": "https://store.steampowered.com/app/274190/",
+        "steamdb_link": "https://steamdb.info/app/274190/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274190/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1043810",
+        "name": "Tactical Breach Wizards",
+        "steam_link": "https://store.steampowered.com/app/1043810/",
+        "steamdb_link": "https://steamdb.info/app/1043810/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/capsule_231x87.jpg"
+      },
+      {
+        "appid": "425580",
+        "name": "The Room Two",
+        "steam_link": "https://store.steampowered.com/app/425580/",
+        "steamdb_link": "https://steamdb.info/app/425580/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/425580/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1999360",
+        "name": "Placid Plastic Duck Simulator",
+        "steam_link": "https://store.steampowered.com/app/1999360/",
+        "steamdb_link": "https://steamdb.info/app/1999360/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/capsule_231x87.jpg"
+      },
+      {
+        "appid": "557600",
+        "name": "Gorogoa",
+        "steam_link": "https://store.steampowered.com/app/557600/",
+        "steamdb_link": "https://steamdb.info/app/557600/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1211020",
+        "name": "Wobbly Life",
+        "steam_link": "https://store.steampowered.com/app/1211020/",
+        "steamdb_link": "https://steamdb.info/app/1211020/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1211020/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1567800",
+        "name": "星空列车与白的旅行",
+        "steam_link": "https://store.steampowered.com/app/1567800/",
+        "steamdb_link": "https://steamdb.info/app/1567800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1567800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "990630",
+        "name": "The Last Campfire",
+        "steam_link": "https://store.steampowered.com/app/990630/",
+        "steamdb_link": "https://steamdb.info/app/990630/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg"
+      },
+      {
+        "appid": "268910",
+        "name": "Cuphead",
+        "steam_link": "https://store.steampowered.com/app/268910/",
+        "steamdb_link": "https://steamdb.info/app/268910/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/capsule_231x87.jpg"
+      },
+      {
+        "appid": "362680",
+        "name": "Fran Bow",
+        "steam_link": "https://store.steampowered.com/app/362680/",
+        "steamdb_link": "https://steamdb.info/app/362680/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362680/capsule_231x87.jpg"
+      },
+      {
+        "appid": "541570",
+        "name": "Sally Face - Episode One",
+        "steam_link": "https://store.steampowered.com/app/541570/",
+        "steamdb_link": "https://steamdb.info/app/541570/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/541570/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1070710",
+        "name": "Kind Words (lo fi chill beats to write to)",
+        "steam_link": "https://store.steampowered.com/app/1070710/",
+        "steamdb_link": "https://steamdb.info/app/1070710/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070710/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1586800",
+        "name": "Lil Gator Game",
+        "steam_link": "https://store.steampowered.com/app/1586800/",
+        "steamdb_link": "https://steamdb.info/app/1586800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1686940",
+        "name": "Bopl Battle",
+        "steam_link": "https://store.steampowered.com/app/1686940/",
+        "steamdb_link": "https://steamdb.info/app/1686940/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1686940/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1059990",
+        "name": "Trombone Champ",
+        "steam_link": "https://store.steampowered.com/app/1059990/",
+        "steamdb_link": "https://steamdb.info/app/1059990/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1059990/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3195790",
+        "name": "White Knuckle",
+        "steam_link": "https://store.steampowered.com/app/3195790/",
+        "steamdb_link": "https://steamdb.info/app/3195790/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2162800",
+        "name": "shapez 2",
+        "steam_link": "https://store.steampowered.com/app/2162800/",
+        "steamdb_link": "https://steamdb.info/app/2162800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1328840",
+        "name": "Lost in Play",
+        "steam_link": "https://store.steampowered.com/app/1328840/",
+        "steamdb_link": "https://steamdb.info/app/1328840/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328840/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1677770",
+        "name": "The Case of the Golden Idol",
+        "steam_link": "https://store.steampowered.com/app/1677770/",
+        "steamdb_link": "https://steamdb.info/app/1677770/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677770/capsule_231x87.jpg"
+      },
+      {
+        "appid": "739630",
+        "name": "Phasmophobia",
+        "steam_link": "https://store.steampowered.com/app/739630/",
+        "steamdb_link": "https://steamdb.info/app/739630/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/capsule_231x87.jpg"
+      },
+      {
+        "appid": "629730",
+        "name": "Blade and Sorcery",
+        "steam_link": "https://store.steampowered.com/app/629730/",
+        "steamdb_link": "https://steamdb.info/app/629730/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629730/capsule_231x87.jpg"
+      },
+      {
+        "appid": "926990",
+        "name": "WolfQuest: Anniversary Edition",
+        "steam_link": "https://store.steampowered.com/app/926990/",
+        "steamdb_link": "https://steamdb.info/app/926990/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/926990/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3084280",
+        "name": "Threefold Recital",
+        "steam_link": "https://store.steampowered.com/app/3084280/",
+        "steamdb_link": "https://steamdb.info/app/3084280/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3084280/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2324650",
+        "name": "The Murder of Sonic the Hedgehog",
+        "steam_link": "https://store.steampowered.com/app/2324650/",
+        "steamdb_link": "https://steamdb.info/app/2324650/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2324650/capsule_231x87.jpg"
+      },
+      {
+        "appid": "519860",
+        "name": "DUSK",
+        "steam_link": "https://store.steampowered.com/app/519860/",
+        "steamdb_link": "https://steamdb.info/app/519860/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519860/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1996010",
+        "name": "Crow Country",
+        "steam_link": "https://store.steampowered.com/app/1996010/",
+        "steamdb_link": "https://steamdb.info/app/1996010/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996010/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2121360",
+        "name": "东北之夏",
+        "steam_link": "https://store.steampowered.com/app/2121360/",
+        "steamdb_link": "https://steamdb.info/app/2121360/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121360/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1927720",
+        "name": "Monument Valley",
+        "steam_link": "https://store.steampowered.com/app/1927720/",
+        "steamdb_link": "https://steamdb.info/app/1927720/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927720/capsule_231x87.jpg"
+      },
+      {
+        "appid": "341800",
+        "name": "Keep Talking and Nobody Explodes",
+        "steam_link": "https://store.steampowered.com/app/341800/",
+        "steamdb_link": "https://steamdb.info/app/341800/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341800/capsule_231x87.jpg"
+      },
+      {
+        "appid": "450540",
+        "name": "Hot Dogs, Horseshoes &amp; Hand Grenades",
+        "steam_link": "https://store.steampowered.com/app/450540/",
+        "steamdb_link": "https://steamdb.info/app/450540/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/450540/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1520370",
+        "name": "Mon Bazou",
+        "steam_link": "https://store.steampowered.com/app/1520370/",
+        "steamdb_link": "https://steamdb.info/app/1520370/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1520370/capsule_231x87.jpg"
+      },
+      {
+        "appid": "3070070",
+        "name": "TCG Card Shop Simulator",
+        "steam_link": "https://store.steampowered.com/app/3070070/",
+        "steamdb_link": "https://steamdb.info/app/3070070/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070070/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1275670",
+        "name": "Outcore: Desktop Adventure",
+        "steam_link": "https://store.steampowered.com/app/1275670/",
+        "steamdb_link": "https://steamdb.info/app/1275670/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275670/capsule_231x87.jpg"
+      },
+      {
+        "appid": "2458860",
+        "name": "Summer Clover",
+        "steam_link": "https://store.steampowered.com/app/2458860/",
+        "steamdb_link": "https://steamdb.info/app/2458860/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458860/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1746030",
+        "name": "Murders on the Yangtze River",
+        "steam_link": "https://store.steampowered.com/app/1746030/",
+        "steamdb_link": "https://steamdb.info/app/1746030/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1388880",
+        "name": "Doki Doki Literature Club Plus!",
+        "steam_link": "https://store.steampowered.com/app/1388880/",
+        "steamdb_link": "https://steamdb.info/app/1388880/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1388880/capsule_231x87.jpg"
+      },
+      {
+        "appid": "653530",
+        "name": "Return of the Obra Dinn",
+        "steam_link": "https://store.steampowered.com/app/653530/",
+        "steamdb_link": "https://steamdb.info/app/653530/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/653530/capsule_231x87.jpg"
+      },
+      {
+        "appid": "242760",
+        "name": "The Forest",
+        "steam_link": "https://store.steampowered.com/app/242760/",
+        "steamdb_link": "https://steamdb.info/app/242760/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242760/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1290000",
+        "name": "PowerWash Simulator",
+        "steam_link": "https://store.steampowered.com/app/1290000/",
+        "steamdb_link": "https://steamdb.info/app/1290000/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290000/capsule_231x87.jpg"
+      },
+      {
+        "appid": "597220",
+        "name": "West of Loathing",
+        "steam_link": "https://store.steampowered.com/app/597220/",
+        "steamdb_link": "https://steamdb.info/app/597220/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597220/capsule_231x87.jpg"
+      },
+      {
+        "appid": "312990",
+        "name": "The Expendabros",
+        "steam_link": "https://store.steampowered.com/app/312990/",
+        "steamdb_link": "https://steamdb.info/app/312990/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312990/capsule_231x87.jpg"
+      },
+      {
+        "appid": "206440",
+        "name": "To the Moon",
+        "steam_link": "https://store.steampowered.com/app/206440/",
+        "steamdb_link": "https://steamdb.info/app/206440/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/206440/capsule_231x87.jpg"
+      },
+      {
+        "appid": "488860",
+        "name": "MADNESS: Project Nexus",
+        "steam_link": "https://store.steampowered.com/app/488860/",
+        "steamdb_link": "https://steamdb.info/app/488860/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/488860/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1469280",
+        "name": "SuchArt: Creative Space",
+        "steam_link": "https://store.steampowered.com/app/1469280/",
+        "steamdb_link": "https://steamdb.info/app/1469280/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1469280/capsule_231x87.jpg"
+      },
+      {
+        "appid": "1171370",
+        "name": "The Supper",
+        "steam_link": "https://store.steampowered.com/app/1171370/",
+        "steamdb_link": "https://steamdb.info/app/1171370/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1171370/capsule_231x87.jpg"
+      },
+      {
+        "appid": "683320",
+        "name": "GRIS",
+        "steam_link": "https://store.steampowered.com/app/683320/",
+        "steamdb_link": "https://steamdb.info/app/683320/",
+        "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/capsule_231x87.jpg"
+      }
+    ]
+  },
+  "games": [
+    {
+      "appid": "1118200",
+      "name": "People Playground",
+      "steam_link": "https://store.steampowered.com/app/1118200/",
+      "steamdb_link": "https://steamdb.info/app/1118200/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/capsule_231x87.jpg"
+    },
+    {
+      "appid": "431960",
+      "name": "Wallpaper Engine",
+      "steam_link": "https://store.steampowered.com/app/431960/",
+      "steamdb_link": "https://steamdb.info/app/431960/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1794680",
+      "name": "Vampire Survivors",
+      "steam_link": "https://store.steampowered.com/app/1794680/",
+      "steamdb_link": "https://steamdb.info/app/1794680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3164500",
+      "name": "Schedule I",
+      "steam_link": "https://store.steampowered.com/app/3164500/",
+      "steamdb_link": "https://steamdb.info/app/3164500/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/capsule_231x87.jpg"
+    },
+    {
+      "appid": "294100",
+      "name": "RimWorld",
+      "steam_link": "https://store.steampowered.com/app/294100/",
+      "steamdb_link": "https://steamdb.info/app/294100/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1055540",
+      "name": "A Short Hike",
+      "steam_link": "https://store.steampowered.com/app/1055540/",
+      "steamdb_link": "https://steamdb.info/app/1055540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1055540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "433340",
+      "name": "Slime Rancher",
+      "steam_link": "https://store.steampowered.com/app/433340/",
+      "steamdb_link": "https://steamdb.info/app/433340/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2527500",
+      "name": "MiSide",
+      "steam_link": "https://store.steampowered.com/app/2527500/",
+      "steamdb_link": "https://steamdb.info/app/2527500/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2134320",
+      "name": "ENA: Dream BBQ",
+      "steam_link": "https://store.steampowered.com/app/2134320/",
+      "steamdb_link": "https://steamdb.info/app/2134320/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2134320/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2795000",
+      "name": "The WereCleaner",
+      "steam_link": "https://store.steampowered.com/app/2795000/",
+      "steamdb_link": "https://steamdb.info/app/2795000/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795000/capsule_231x87.jpg"
+    },
+    {
+      "appid": "508440",
+      "name": "Totally Accurate Battle Simulator",
+      "steam_link": "https://store.steampowered.com/app/508440/",
+      "steamdb_link": "https://steamdb.info/app/508440/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1229490",
+      "name": "ULTRAKILL",
+      "steam_link": "https://store.steampowered.com/app/1229490/",
+      "steamdb_link": "https://steamdb.info/app/1229490/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1289310",
+      "name": "Helltaker",
+      "steam_link": "https://store.steampowered.com/app/1289310/",
+      "steamdb_link": "https://steamdb.info/app/1289310/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289310/capsule_231x87.jpg"
+    },
+    {
+      "appid": "960090",
+      "name": "Bloons TD 6",
+      "steam_link": "https://store.steampowered.com/app/960090/",
+      "steamdb_link": "https://steamdb.info/app/960090/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960090/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1966720",
+      "name": "Lethal Company",
+      "steam_link": "https://store.steampowered.com/app/1966720/",
+      "steamdb_link": "https://steamdb.info/app/1966720/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3419430",
+      "name": "Bongo Cat",
+      "steam_link": "https://store.steampowered.com/app/3419430/",
+      "steamdb_link": "https://steamdb.info/app/3419430/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1307580",
+      "name": "TOEM: A Photo Adventure",
+      "steam_link": "https://store.steampowered.com/app/1307580/",
+      "steamdb_link": "https://steamdb.info/app/1307580/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1307580/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1931770",
+      "name": "Chants of Sennaar",
+      "steam_link": "https://store.steampowered.com/app/1931770/",
+      "steamdb_link": "https://steamdb.info/app/1931770/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/capsule_231x87.jpg"
+    },
+    {
+      "appid": "367520",
+      "name": "Hollow Knight",
+      "steam_link": "https://store.steampowered.com/app/367520/",
+      "steamdb_link": "https://steamdb.info/app/367520/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1366540",
+      "name": "Dyson Sphere Program",
+      "steam_link": "https://store.steampowered.com/app/1366540/",
+      "steamdb_link": "https://steamdb.info/app/1366540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "774181",
+      "name": "Rhythm Doctor",
+      "steam_link": "https://store.steampowered.com/app/774181/",
+      "steamdb_link": "https://steamdb.info/app/774181/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg"
+    },
+    {
+      "appid": "264710",
+      "name": "Subnautica",
+      "steam_link": "https://store.steampowered.com/app/264710/",
+      "steamdb_link": "https://steamdb.info/app/264710/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1361320",
+      "name": "The Room 4: Old Sins",
+      "steam_link": "https://store.steampowered.com/app/1361320/",
+      "steamdb_link": "https://steamdb.info/app/1361320/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1669980",
+      "name": "Volcano Princess",
+      "steam_link": "https://store.steampowered.com/app/1669980/",
+      "steamdb_link": "https://steamdb.info/app/1669980/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3454610",
+      "name": "Poco",
+      "steam_link": "https://store.steampowered.com/app/3454610/",
+      "steamdb_link": "https://steamdb.info/app/3454610/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3454610/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1584090",
+      "name": "Touhou Mystia's Izakaya",
+      "steam_link": "https://store.steampowered.com/app/1584090/",
+      "steamdb_link": "https://steamdb.info/app/1584090/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1584090/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1040200",
+      "name": "Crime Scene Cleaner",
+      "steam_link": "https://store.steampowered.com/app/1040200/",
+      "steamdb_link": "https://steamdb.info/app/1040200/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/capsule_231x87.jpg"
+    },
+    {
+      "appid": "239030",
+      "name": "Papers, Please",
+      "steam_link": "https://store.steampowered.com/app/239030/",
+      "steamdb_link": "https://steamdb.info/app/239030/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239030/capsule_231x87.jpg"
+    },
+    {
+      "appid": "667970",
+      "name": "VTOL VR",
+      "steam_link": "https://store.steampowered.com/app/667970/",
+      "steamdb_link": "https://steamdb.info/app/667970/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/667970/capsule_231x87.jpg"
+    },
+    {
+      "appid": "288160",
+      "name": "The Room",
+      "steam_link": "https://store.steampowered.com/app/288160/",
+      "steamdb_link": "https://steamdb.info/app/288160/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288160/capsule_231x87.jpg"
+    },
+    {
+      "appid": "787480",
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "steam_link": "https://store.steampowered.com/app/787480/",
+      "steamdb_link": "https://steamdb.info/app/787480/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787480/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1082430",
+      "name": "Before Your Eyes",
+      "steam_link": "https://store.steampowered.com/app/1082430/",
+      "steamdb_link": "https://steamdb.info/app/1082430/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082430/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1533420",
+      "name": "Neon White",
+      "steam_link": "https://store.steampowered.com/app/1533420/",
+      "steamdb_link": "https://steamdb.info/app/1533420/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1533420/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1092790",
+      "name": "Inscryption",
+      "steam_link": "https://store.steampowered.com/app/1092790/",
+      "steamdb_link": "https://steamdb.info/app/1092790/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1868140",
+      "name": "DAVE THE DIVER",
+      "steam_link": "https://store.steampowered.com/app/1868140/",
+      "steamdb_link": "https://steamdb.info/app/1868140/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1424330",
+      "name": "Wobbledogs",
+      "steam_link": "https://store.steampowered.com/app/1424330/",
+      "steamdb_link": "https://steamdb.info/app/1424330/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1424330/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1240210",
+      "name": "There Is No Game: Wrong Dimension",
+      "steam_link": "https://store.steampowered.com/app/1240210/",
+      "steamdb_link": "https://steamdb.info/app/1240210/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1240210/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2263010",
+      "name": "Pineapple on pizza",
+      "steam_link": "https://store.steampowered.com/app/2263010/",
+      "steamdb_link": "https://steamdb.info/app/2263010/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2263010/capsule_231x87.jpg"
+    },
+    {
+      "appid": "457140",
+      "name": "Oxygen Not Included",
+      "steam_link": "https://store.steampowered.com/app/457140/",
+      "steamdb_link": "https://steamdb.info/app/457140/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1260520",
+      "name": "Patrick's Parabox",
+      "steam_link": "https://store.steampowered.com/app/1260520/",
+      "steamdb_link": "https://steamdb.info/app/1260520/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1260520/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1562700",
+      "name": "SANABI",
+      "steam_link": "https://store.steampowered.com/app/1562700/",
+      "steamdb_link": "https://steamdb.info/app/1562700/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3548580",
+      "name": "Chill with You : Lo-Fi Story",
+      "steam_link": "https://store.steampowered.com/app/3548580/",
+      "steamdb_link": "https://steamdb.info/app/3548580/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3548580/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2600140",
+      "name": "Please, Touch The Artwork 2",
+      "steam_link": "https://store.steampowered.com/app/2600140/",
+      "steamdb_link": "https://steamdb.info/app/2600140/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2600140/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3376990",
+      "name": "Kabuto Park",
+      "steam_link": "https://store.steampowered.com/app/3376990/",
+      "steamdb_link": "https://steamdb.info/app/3376990/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3376990/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1708150",
+      "name": "Juice Galaxy",
+      "steam_link": "https://store.steampowered.com/app/1708150/",
+      "steamdb_link": "https://steamdb.info/app/1708150/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1708150/capsule_231x87.jpg"
+    },
+    {
+      "appid": "304430",
+      "name": "INSIDE",
+      "steam_link": "https://store.steampowered.com/app/304430/",
+      "steamdb_link": "https://steamdb.info/app/304430/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304430/capsule_231x87.jpg"
+    },
+    {
+      "appid": "531510",
+      "name": "Just Shapes &amp; Beats",
+      "steam_link": "https://store.steampowered.com/app/531510/",
+      "steamdb_link": "https://steamdb.info/app/531510/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/531510/capsule_231x87.jpg"
+    },
+    {
+      "appid": "337340",
+      "name": "Finding Paradise",
+      "steam_link": "https://store.steampowered.com/app/337340/",
+      "steamdb_link": "https://steamdb.info/app/337340/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337340/capsule_231x87.jpg"
+    },
+    {
+      "appid": "4050060",
+      "name": "Shift At Midnight Multiplayer Demo",
+      "steam_link": "https://store.steampowered.com/app/4050060/",
+      "steamdb_link": "https://steamdb.info/app/4050060/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4050060/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3170150",
+      "name": "Cairn Demo",
+      "steam_link": "https://store.steampowered.com/app/3170150/",
+      "steamdb_link": "https://steamdb.info/app/3170150/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170150/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3241660",
+      "name": "R.E.P.O.",
+      "steam_link": "https://store.steampowered.com/app/3241660/",
+      "steamdb_link": "https://steamdb.info/app/3241660/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/capsule_231x87.jpg"
+    },
+    {
+      "appid": "636480",
+      "name": "Ravenfield",
+      "steam_link": "https://store.steampowered.com/app/636480/",
+      "steamdb_link": "https://steamdb.info/app/636480/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/636480/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1353230",
+      "name": "Bomb Rush Cyberfunk",
+      "steam_link": "https://store.steampowered.com/app/1353230/",
+      "steamdb_link": "https://steamdb.info/app/1353230/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1353230/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1057090",
+      "name": "Ori and the Will of the Wisps",
+      "steam_link": "https://store.steampowered.com/app/1057090/",
+      "steamdb_link": "https://steamdb.info/app/1057090/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg"
+    },
+    {
+      "appid": "274190",
+      "name": "Broforce",
+      "steam_link": "https://store.steampowered.com/app/274190/",
+      "steamdb_link": "https://steamdb.info/app/274190/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274190/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1043810",
+      "name": "Tactical Breach Wizards",
+      "steam_link": "https://store.steampowered.com/app/1043810/",
+      "steamdb_link": "https://steamdb.info/app/1043810/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/capsule_231x87.jpg"
+    },
+    {
+      "appid": "425580",
+      "name": "The Room Two",
+      "steam_link": "https://store.steampowered.com/app/425580/",
+      "steamdb_link": "https://steamdb.info/app/425580/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/425580/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1999360",
+      "name": "Placid Plastic Duck Simulator",
+      "steam_link": "https://store.steampowered.com/app/1999360/",
+      "steamdb_link": "https://steamdb.info/app/1999360/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/capsule_231x87.jpg"
+    },
+    {
+      "appid": "557600",
+      "name": "Gorogoa",
+      "steam_link": "https://store.steampowered.com/app/557600/",
+      "steamdb_link": "https://steamdb.info/app/557600/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1211020",
+      "name": "Wobbly Life",
+      "steam_link": "https://store.steampowered.com/app/1211020/",
+      "steamdb_link": "https://steamdb.info/app/1211020/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1211020/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1567800",
+      "name": "星空列车与白的旅行",
+      "steam_link": "https://store.steampowered.com/app/1567800/",
+      "steamdb_link": "https://steamdb.info/app/1567800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1567800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "990630",
+      "name": "The Last Campfire",
+      "steam_link": "https://store.steampowered.com/app/990630/",
+      "steamdb_link": "https://steamdb.info/app/990630/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg"
+    },
+    {
+      "appid": "268910",
+      "name": "Cuphead",
+      "steam_link": "https://store.steampowered.com/app/268910/",
+      "steamdb_link": "https://steamdb.info/app/268910/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/capsule_231x87.jpg"
+    },
+    {
+      "appid": "362680",
+      "name": "Fran Bow",
+      "steam_link": "https://store.steampowered.com/app/362680/",
+      "steamdb_link": "https://steamdb.info/app/362680/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362680/capsule_231x87.jpg"
+    },
+    {
+      "appid": "541570",
+      "name": "Sally Face - Episode One",
+      "steam_link": "https://store.steampowered.com/app/541570/",
+      "steamdb_link": "https://steamdb.info/app/541570/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/541570/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1070710",
+      "name": "Kind Words (lo fi chill beats to write to)",
+      "steam_link": "https://store.steampowered.com/app/1070710/",
+      "steamdb_link": "https://steamdb.info/app/1070710/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070710/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1586800",
+      "name": "Lil Gator Game",
+      "steam_link": "https://store.steampowered.com/app/1586800/",
+      "steamdb_link": "https://steamdb.info/app/1586800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1686940",
+      "name": "Bopl Battle",
+      "steam_link": "https://store.steampowered.com/app/1686940/",
+      "steamdb_link": "https://steamdb.info/app/1686940/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1686940/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1059990",
+      "name": "Trombone Champ",
+      "steam_link": "https://store.steampowered.com/app/1059990/",
+      "steamdb_link": "https://steamdb.info/app/1059990/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1059990/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3195790",
+      "name": "White Knuckle",
+      "steam_link": "https://store.steampowered.com/app/3195790/",
+      "steamdb_link": "https://steamdb.info/app/3195790/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2162800",
+      "name": "shapez 2",
+      "steam_link": "https://store.steampowered.com/app/2162800/",
+      "steamdb_link": "https://steamdb.info/app/2162800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1328840",
+      "name": "Lost in Play",
+      "steam_link": "https://store.steampowered.com/app/1328840/",
+      "steamdb_link": "https://steamdb.info/app/1328840/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328840/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1677770",
+      "name": "The Case of the Golden Idol",
+      "steam_link": "https://store.steampowered.com/app/1677770/",
+      "steamdb_link": "https://steamdb.info/app/1677770/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677770/capsule_231x87.jpg"
+    },
+    {
+      "appid": "739630",
+      "name": "Phasmophobia",
+      "steam_link": "https://store.steampowered.com/app/739630/",
+      "steamdb_link": "https://steamdb.info/app/739630/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/capsule_231x87.jpg"
+    },
+    {
+      "appid": "629730",
+      "name": "Blade and Sorcery",
+      "steam_link": "https://store.steampowered.com/app/629730/",
+      "steamdb_link": "https://steamdb.info/app/629730/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629730/capsule_231x87.jpg"
+    },
+    {
+      "appid": "926990",
+      "name": "WolfQuest: Anniversary Edition",
+      "steam_link": "https://store.steampowered.com/app/926990/",
+      "steamdb_link": "https://steamdb.info/app/926990/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/926990/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3084280",
+      "name": "Threefold Recital",
+      "steam_link": "https://store.steampowered.com/app/3084280/",
+      "steamdb_link": "https://steamdb.info/app/3084280/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3084280/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2324650",
+      "name": "The Murder of Sonic the Hedgehog",
+      "steam_link": "https://store.steampowered.com/app/2324650/",
+      "steamdb_link": "https://steamdb.info/app/2324650/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2324650/capsule_231x87.jpg"
+    },
+    {
+      "appid": "519860",
+      "name": "DUSK",
+      "steam_link": "https://store.steampowered.com/app/519860/",
+      "steamdb_link": "https://steamdb.info/app/519860/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519860/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1996010",
+      "name": "Crow Country",
+      "steam_link": "https://store.steampowered.com/app/1996010/",
+      "steamdb_link": "https://steamdb.info/app/1996010/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996010/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2121360",
+      "name": "东北之夏",
+      "steam_link": "https://store.steampowered.com/app/2121360/",
+      "steamdb_link": "https://steamdb.info/app/2121360/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121360/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1927720",
+      "name": "Monument Valley",
+      "steam_link": "https://store.steampowered.com/app/1927720/",
+      "steamdb_link": "https://steamdb.info/app/1927720/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927720/capsule_231x87.jpg"
+    },
+    {
+      "appid": "341800",
+      "name": "Keep Talking and Nobody Explodes",
+      "steam_link": "https://store.steampowered.com/app/341800/",
+      "steamdb_link": "https://steamdb.info/app/341800/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341800/capsule_231x87.jpg"
+    },
+    {
+      "appid": "450540",
+      "name": "Hot Dogs, Horseshoes &amp; Hand Grenades",
+      "steam_link": "https://store.steampowered.com/app/450540/",
+      "steamdb_link": "https://steamdb.info/app/450540/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/450540/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1520370",
+      "name": "Mon Bazou",
+      "steam_link": "https://store.steampowered.com/app/1520370/",
+      "steamdb_link": "https://steamdb.info/app/1520370/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1520370/capsule_231x87.jpg"
+    },
+    {
+      "appid": "3070070",
+      "name": "TCG Card Shop Simulator",
+      "steam_link": "https://store.steampowered.com/app/3070070/",
+      "steamdb_link": "https://steamdb.info/app/3070070/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070070/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1275670",
+      "name": "Outcore: Desktop Adventure",
+      "steam_link": "https://store.steampowered.com/app/1275670/",
+      "steamdb_link": "https://steamdb.info/app/1275670/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1275670/capsule_231x87.jpg"
+    },
+    {
+      "appid": "2458860",
+      "name": "Summer Clover",
+      "steam_link": "https://store.steampowered.com/app/2458860/",
+      "steamdb_link": "https://steamdb.info/app/2458860/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458860/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1746030",
+      "name": "Murders on the Yangtze River",
+      "steam_link": "https://store.steampowered.com/app/1746030/",
+      "steamdb_link": "https://steamdb.info/app/1746030/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1388880",
+      "name": "Doki Doki Literature Club Plus!",
+      "steam_link": "https://store.steampowered.com/app/1388880/",
+      "steamdb_link": "https://steamdb.info/app/1388880/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1388880/capsule_231x87.jpg"
+    },
+    {
+      "appid": "653530",
+      "name": "Return of the Obra Dinn",
+      "steam_link": "https://store.steampowered.com/app/653530/",
+      "steamdb_link": "https://steamdb.info/app/653530/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/653530/capsule_231x87.jpg"
+    },
+    {
+      "appid": "242760",
+      "name": "The Forest",
+      "steam_link": "https://store.steampowered.com/app/242760/",
+      "steamdb_link": "https://steamdb.info/app/242760/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242760/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1290000",
+      "name": "PowerWash Simulator",
+      "steam_link": "https://store.steampowered.com/app/1290000/",
+      "steamdb_link": "https://steamdb.info/app/1290000/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290000/capsule_231x87.jpg"
+    },
+    {
+      "appid": "597220",
+      "name": "West of Loathing",
+      "steam_link": "https://store.steampowered.com/app/597220/",
+      "steamdb_link": "https://steamdb.info/app/597220/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597220/capsule_231x87.jpg"
+    },
+    {
+      "appid": "312990",
+      "name": "The Expendabros",
+      "steam_link": "https://store.steampowered.com/app/312990/",
+      "steamdb_link": "https://steamdb.info/app/312990/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312990/capsule_231x87.jpg"
+    },
+    {
+      "appid": "206440",
+      "name": "To the Moon",
+      "steam_link": "https://store.steampowered.com/app/206440/",
+      "steamdb_link": "https://steamdb.info/app/206440/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/206440/capsule_231x87.jpg"
+    },
+    {
+      "appid": "488860",
+      "name": "MADNESS: Project Nexus",
+      "steam_link": "https://store.steampowered.com/app/488860/",
+      "steamdb_link": "https://steamdb.info/app/488860/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/488860/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1469280",
+      "name": "SuchArt: Creative Space",
+      "steam_link": "https://store.steampowered.com/app/1469280/",
+      "steamdb_link": "https://steamdb.info/app/1469280/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1469280/capsule_231x87.jpg"
+    },
+    {
+      "appid": "1171370",
+      "name": "The Supper",
+      "steam_link": "https://store.steampowered.com/app/1171370/",
+      "steamdb_link": "https://steamdb.info/app/1171370/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1171370/capsule_231x87.jpg"
+    },
+    {
+      "appid": "683320",
+      "name": "GRIS",
+      "steam_link": "https://store.steampowered.com/app/683320/",
+      "steamdb_link": "https://steamdb.info/app/683320/",
+      "image_link": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/capsule_231x87.jpg"
+    }
+  ],
+  "psn_matches": {}
+}
